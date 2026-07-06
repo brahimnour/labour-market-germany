@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 # PAGE CONFIG
 st.set_page_config(
-    page_title="Labour Market Intelligence Germany",
+    page_title="German Employment Analytics Platform",
     page_icon="DE",
     layout="wide"
 )
@@ -92,10 +92,10 @@ if page == "Home":
             </p>
             <h1 style="color:white; font-size:52px; font-family:Georgia,serif;
                        margin-bottom:15px; letter-spacing:2px;">
-                LABOUR MARKET<br>GERMANY
+                German Employment Analytics<br>Platform
             </h1>
             <p style="color:{ROSE}; font-size:16px;">
-                Real-time analysis of the German IT job market
+                Explore Germany's labour market through interactive analytics<br>on jobs, skills, companies and regional demand
             </p>
         </div>
     """, unsafe_allow_html=True)
