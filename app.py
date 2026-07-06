@@ -87,9 +87,6 @@ if page == "Home":
         <div style="background: linear-gradient(135deg, {BORDEAUX}, #9B3A4A);
                     padding: 70px 50px; border-radius: 0px; text-align: center;
                     margin-bottom: 40px;">
-            <p style="color:{ROSE}; font-size:13px; letter-spacing:4px;">
-                DATA INTELLIGENCE
-            </p>
             <h1 style="color:white; font-size:52px; font-family:Georgia,serif;
                        margin-bottom:15px; letter-spacing:2px;">
                 German Employment Analytics<br>Platform
