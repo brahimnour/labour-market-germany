@@ -5,7 +5,7 @@ import matplotlib.patches as mpatches
 
 # PAGE CONFIG
 st.set_page_config(
-    page_title="Labour Market Intelligence Germany",
+    page_title="Germany Labour Market Intelligence",
     page_icon="DE",
     layout="wide"
 )
