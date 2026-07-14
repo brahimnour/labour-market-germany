@@ -37,7 +37,7 @@ print(f"Before : {df.shape[0]} offers")
 print(f"After  : {df_clean.shape[0]} offers")
 
 # Save clean file
-df_clean.to_csv("job_offers_germany_combined_clean.csv",
+df_clean.to_csv("data/job_offers_germany_combined_clean.csv",
                  index=False, encoding="utf-8-sig", sep=";")
 
 print("\nClean file saved : job_offers_germany_combined_clean.csv")

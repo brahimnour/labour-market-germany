@@ -4,3 +4,7 @@ __pycache__/
 .venv/
 .streamlit/secrets.toml
 
+job_offers_germany.csv
+job_offers_germany_clean.csv
+adzuna_offers_germany.csv
+job_offers_germany_combined.csv
