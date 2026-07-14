@@ -1,0 +1,40 @@
+name: Weekly Job Data Collection
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Collect and process data
+        env:
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+        run: |
+          python src/collection.py
+          python src/cleaning.py
+          python src/collection_adzuna.py
+          python src/merge.py
+          python src/cleaning_adzuna.py
+
+      - name: Commit updated data
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/job_offers_germany_combined_clean.csv
+	  git diff --staged --quiet || git commit -m "Auto-update job data $(date +'%Y-%m-%d')"
+          git push
