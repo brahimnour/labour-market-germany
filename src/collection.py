@@ -55,13 +55,13 @@ for job in jobs:
 
             for offre in data["stellenangebote"]:
                 all_offers.append({
-                    "title"      : offre["titel"],
-                    "job"     : offre["beruf"],
-                    "company" : offre.get("arbeitgeber", "Not provided"),
-                    "city"      : offre["arbeitsort"].get("ort", "Not provided"),
-                    "region"     : offre["arbeitsort"].get("region", "Not provided"),
-                    "postal_code": offre["arbeitsort"].get("plz", "Not provided"),
-                    "date"       : offre["aktuelleVeroeffentlichungsdatum"]
+                    "title"      : offre.get("titel", "Not provided"),
+                    "job"        : offre.get("beruf", "Not provided"),
+                    "company"    : offre.get("arbeitgeber", "Not provided"),
+                    "city"       : offre.get("arbeitsort", {}).get("ort", "Not provided"),
+                    "region"     : offre.get("arbeitsort", {}).get("region", "Not provided"),
+                    "postal_code": offre.get("arbeitsort", {}).get("plz", "Not provided"),
+                    "date"       : offre.get("aktuelleVeroeffentlichungsdatum", "Not provided")
                 })
 #le f au debut en print sert a dire a python que le texte contient un variable (len())
 print(f"\n Total offres collected : {len(all_offers)}")
