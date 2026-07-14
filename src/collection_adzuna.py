@@ -2,9 +2,9 @@ import requests
 import json
 import pandas as pd
 import time
-
-APP_ID  = "ee9f9103"
-APP_KEY = "ff8f3ca74cb967af884fdcd0166df600"
+import os
+APP_ID  = os.environ.get("ADZUNA_APP_ID")
+APP_KEY = os.environ.get("ADZUNA_APP_KEY")
 
 url = "https://api.adzuna.com/v1/api/jobs/de/search/1"
 
