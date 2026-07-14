@@ -174,7 +174,7 @@ st.markdown(f"""
 # LOAD DATA
 @st.cache_data
 def load_data():
-    df = pd.read_csv("job_offers_germany_combined_clean.csv",
+    df = pd.read_csv("data/job_offers_germany_combined_clean.csv",
                       sep=";", encoding="utf-8-sig")
     df["city"] = df["city"].replace({
         "Frankfurt am Main": "Frankfurt",
