@@ -66,5 +66,5 @@ a proper star-schema data model — showcasing data modeling and DAX skills beyo
 Only job postings from the Adzuna source (42 out of 1,127 offers) include salary data. Salary-related measures display alongside a sample-size indicator to avoid misleading interpretation.
 
 ## Live Demo
-Streamlit app: [link]
+Streamlit app: https://labour-market-germany-pu5myoz7buwjpu6gxl6ukr.streamlit.app
 Data refreshes automatically every week via GitHub Actions — no manual intervention required.
