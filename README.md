@@ -13,14 +13,13 @@ This project collects, cleans, analyzes and visualizes IT job offers from German
 ## Data Sources
 - Bundesagentur fur Arbeit (Federal Employment Agency Germany)
 - Adzuna Jobs API
-
+- 
 ## Tech Stack
-- Python 3.13
-- Pandas — data manipulation
-- Matplotlib — data visualization
+- Python 3.13 — Pandas, REST APIs
 - Streamlit — interactive web dashboard
-- REST APIs — data collection
-
+- Power BI — star-schema data model & DAX measures
+- GitHub Actions — automated weekly data pipeline
+- 
 ## Project Structure
 - collection.py — collect data from Bundesagentur API
 - collection_adzuna.py — collect data from Adzuna API
@@ -67,4 +66,5 @@ a proper star-schema data model — showcasing data modeling and DAX skills beyo
 Only job postings from the Adzuna source (42 out of 1,127 offers) include salary data. Salary-related measures display alongside a sample-size indicator to avoid misleading interpretation.
 
 ## Live Demo
-Coming soon on Streamlit Cloud
+Streamlit app: [link]
+Data refreshes automatically every week via GitHub Actions — no manual intervention required.
