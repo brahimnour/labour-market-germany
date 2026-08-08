@@ -1,0 +1,1128 @@
+offer_id,title,job,city_id,company_id,date_id,source,contract_time,category,salary_min,salary_max,salary_avg,has_salary
+1,Data-Analyst,Data-Analyst/in,2,1,20260521,Bundesagentur,,,,,,False
+2,Data Analyst Data Analytics,Business-Analyst/in,2,2,20260722,Bundesagentur,,,,,,False
+3,Big Data Analyst,Data Engineer,2,3,20250613,Bundesagentur,,,,,,False
+4,Senior Data Analyst (Kineto) (m/f/d),Data-Analyst/in,2,4,20260707,Bundesagentur,,,,,,False
+5,Senior Marketing Data Analyst (all genders),Data-Analyst/in,2,5,20260728,Bundesagentur,,,,,,False
+6,Business Data Analyst,Data Scientist,2,6,20260622,Bundesagentur,,,,,,False
+7,Big Data Analyst,Informatiker/in,2,7,20250211,Bundesagentur,,,,,,False
+8,Data Analyst (JetBrains AI) (m/f/d),Datenbankadministrator/in,2,4,20260707,Bundesagentur,,,,,,False
+9,Data Scientist & Data Analyst,Data Scientist,2,6,20260506,Bundesagentur,,,,,,False
+10,Analystin Energiewirtschaft Strom,Energiemanager/in,2,8,20260730,Bundesagentur,,,,,,False
+11,Tech Analyst - Payments & Fraud,Data-Analyst/in,2,9,20260611,Bundesagentur,,,,,,False
+12,Principal Product Analyst (all genders),Data-Analyst/in,2,10,20260721,Bundesagentur,,,,,,False
+13,Datenanalyst / Data Engineer,Data-Analyst/in,2,11,20260803,Bundesagentur,,,,,,False
+14,Tech Analyst - Broker Signup Flows,Data-Analyst/in,2,9,20260326,Bundesagentur,,,,,,False
+15,Tech Analyst - Application Lifecycle Management,Data-Analyst/in,2,9,20260326,Bundesagentur,,,,,,False
+16,SAP Data Quality Analyst - Datenbereinigung & Migration,Business-Analyst/in,2,12,20260707,Bundesagentur,,,,,,False
+17,Big Data Analytics,Data-Analyst/in,2,7,20250211,Bundesagentur,,,,,,False
+18,"Junior Pricing Analyst - Data & Operations, Hauptverwaltung Groß Kienitz",Data-Analyst/in,3,13,20260709,Bundesagentur,,,,,,False
+19,Product Owner:in Data Business Intelligence,Data Engineer,2,14,20260714,Bundesagentur,,,,,,False
+20,GBO Key User - Master Data with focus on S/4HANA  Migration (m/f/d),Data-Analyst/in,2,15,20260720,Bundesagentur,,,,,,False
+21,Payroll Projects and Compliance Analyst (Relocation to Amsterdam) - m/w/d,Data-Warehouse-Analyst/in,2,16,20260728,Bundesagentur,,,,,,False
+22,Werkstudent SEO & AI Search Visibility,Data-Analyst/in,12,17,20260730,Bundesagentur,,,,,,False
+23,"Senior GRC Analyst (m,f,x)",Softwareentwickler/in,2,18,20260619,Bundesagentur,,,,,,False
+24,Risk Analyst - Client Underwriting (m/f/d),Informationssicherheitsbeauftragte/r,2,19,20260716,Bundesagentur,,,,,,False
+25,Referent:in Strategisches Medizincontrolling (DRG Analyst),Controller/in,2,20,20250915,Bundesagentur,,,,,,False
+26,Senior Business & Data Analyst,Data-Analyst/in,6,21,20260703,Bundesagentur,,,,,,False
+27,Market Data Analyst,Bankkaufmann/-frau,6,22,20260609,Bundesagentur,,,,,,False
+28,Data Analyst Experimentation,Business-Analyst/in,6,23,20260703,Bundesagentur,,,,,,False
+29,Data Analyst (gn),Wirtschaftsinformatiker/in (Hochschule),6,24,20260713,Bundesagentur,,,,,,False
+30,Data Analyst (all genders),Data Scientist,6,25,20260714,Bundesagentur,,,,,,False
+31,(Junior) Data Analyst Campaigning,Business-Analyst/in,6,26,20260703,Bundesagentur,,,,,,False
+32,Big Data Analyst,Informatiker/in,6,7,20250211,Bundesagentur,,,,,,False
+33,Cabin Trend Research & Data Analyst Airbus,Data-Analyst/in,6,27,20260729,Bundesagentur,,,,,,False
+34,Data Analyst (m|w|d),Data-Analyst/in,6,28,20260710,Bundesagentur,,,,,,False
+35,Staff Data Engineer,Data-Analyst/in,6,29,20260716,Bundesagentur,,,,,,False
+36,Cabin Trend Research & Data Analyst für AIRBUS,Data-Analyst/in,6,30,20260729,Bundesagentur,,,,,,False
+37,Big Data Analytics,Data-Analyst/in,6,7,20250211,Bundesagentur,,,,,,False
+38,Supply Chain Analyst (d/f/m) AIRBUS,Supply-Chain-Manager/in,6,31,20260801,Bundesagentur,,,,,,False
+39,Business Data Analyst - Schwerpunk Netzführung und Netzwirtschaft*,Berufsspezialist/in - Datenanalyse,10,32,20260727,Bundesagentur,,,,,,False
+40,BI Analyst - Qlik Sense,Informatiker/in,6,33,20260720,Bundesagentur,,,,,,False
+41,(Junior) Data Engineer Waffensystemdaten,Data Engineer,6,34,20260624,Bundesagentur,,,,,,False
+42,Senior Qlik Sense Analyst on-prem militärischer Schiffbau,Data-Analyst/in,6,35,20260801,Bundesagentur,,,,,,False
+43,Trend Researcher Aircraft Cabins (m/f/w) for AIRBUS,Data-Analyst/in,6,36,20260729,Bundesagentur,,,,,,False
+44,Senior- Qlik Sense-Analyst,Business-Analyst/in,6,37,20260708,Bundesagentur,,,,,,False
+45,Lead Cost Analyst Offshore Wind,Finanzwirt/in,6,38,20260729,Bundesagentur,,,,,,False
+46,Senior Financial Analyst (m/f/d),Betriebswirt/in (Hochschule) - Rechnungswesen und Controlling,6,39,20260415,Bundesagentur,,,,,,False
+47,Financial Analyst- Controlling Rotation Program,Finanzwirt/in,6,39,20260727,Bundesagentur,,,,,,False
+48,Financial Analyst - Controlling Rotation Program,Betriebswirt/in (Fachschule) - Finanzen und Investment/Bachelor Professional in Wirtschaft,6,39,20260721,Bundesagentur,,,,,,False
+49,Data Analyst,IT-Forensiker/in,5,40,20251109,Bundesagentur,,,,,,False
+50,Big Data Analyst,Data Engineer,5,3,20250613,Bundesagentur,,,,,,False
+51,HR Controller / HR Data Analyst,Mathematiker/in,5,41,20260410,Bundesagentur,,,,,,False
+52,Big Data Analyst,Informatiker/in,5,7,20250211,Bundesagentur,,,,,,False
+53,Data Architect - Microsoft Fabric,Data-Analyst/in,5,42,20260730,Bundesagentur,,,,,,False
+54,Zwei Data Analysts im Bereich Finanzaufsicht,Data-Analyst/in,5,43,20260720,Bundesagentur,,,,,,False
+55,Big Data Analytics,Data-Analyst/in,5,7,20250211,Bundesagentur,,,,,,False
+56,#14707  Client Reporting Analyst (m/f/d),Data Engineer,5,44,20260729,Bundesagentur,,,,,,False
+57,Senior Associate Treasury Analyst (m/f/d),Assistent/in/Fachkraft - Rechnungswesen,5,45,20260707,Bundesagentur,,,,,,False
+58,Data Scientist / Analyst prüfungsnahe Beratung - Quants-Assurance (Financial Services),Mathematiker/in,5,46,20250611,Bundesagentur,,,,,,False
+59,Client Reporting Analyst (m/f/d),Betriebswirt/in (Fachschule) - Bank,5,47,20260730,Bundesagentur,,,,,,False
+60,SAMSUNG - Specialist Retail Analytics,Data-Analyst/in,5,48,20260619,Bundesagentur,,,,,,False
+61,(Senior) Analytics Berater (SAP BDC inkl. SAC & Datasphere),Data-Analyst/in,5,49,20260629,Bundesagentur,,,,,,False
+62,Strategic Pricing & Network Analyst (m/f/d),Kaufmann/-frau - Spedition und Logistikdienstleistung,5,50,20260725,Bundesagentur,,,,,,False
+63,Lead-Business-Functional-Analyst---Risk,Betriebswirt/in (Hochschule),5,51,20260409,Bundesagentur,,,,,,False
+64,Marketing Analytics Lead (Tracking & Attribution),Data Engineer,1,52,20260630,Bundesagentur,,,,,,False
+65,"Analytical Consultant, Digital First",Digital-Analyst/in,5,53,20260723,Bundesagentur,,,,,,False
+66,Manager Controlling,Betriebswirt/in (Hochschule) - Rechnungswesen und Controlling,5,54,20260710,Bundesagentur,,,,,,False
+67,Zwei Data Analysts im Bereich Finanzaufsicht,Business-Analyst/in,5,55,20260722,Bundesagentur,,,,,,False
+68,NTT DATA Deutschland SE: Deal Maker (w/m/x),Beteiligungsmanager/in,5,56,20260729,Bundesagentur,,,,,,False
+69,"Data Scientist, Frankfurt",Data-Warehouse-Analyst/in,5,57,20260219,Bundesagentur,,,,,,False
+70,NTT DATA Deutschland SE: Senior Business Analyst - Core Insurance (m/w/x) Guidewire & Business Proce,IT-Lösungsentwickler/in,5,56,20260729,Bundesagentur,,,,,,False
+71,Data Strategist mit Fokus Regulatory,Wirtschaftsinformatiker/in (Hochschule),5,58,20260708,Bundesagentur,,,,,,False
+72,Key Account Manager – Data & Analytics-Lösungen,IT-Projektkoordinator/in,5,59,20260708,Bundesagentur,,,,,,False
+73,"Software Developer Python (all genders), Berlin",Softwareentwickler/in,2,60,20260716,Bundesagentur,,,,,,False
+74,"Senior Full Stack Developer (Python, Azure & AI)",Fullstack-Entwickler/in,2,46,20260702,Bundesagentur,,,,,,False
+75,Senior Python Engineer [m/w/d] - 100% Remote,Web Developer,2,61,20260529,Bundesagentur,,,,,,False
+76,Python / LangChain / KI Entwickler [m/w/d] - 100% Remote,Web Developer,2,61,20260529,Bundesagentur,,,,,,False
+77,Senior AI Developer,KI-Engineer,2,62,20251219,Bundesagentur,,,,,,False
+78,Full Stack Developer Django/Vue.js,Softwareentwickler/in,2,63,20260728,Bundesagentur,,,,,,False
+79,Software Developer* Cloud-Technologien,Softwareentwickler/in,2,64,20250522,Bundesagentur,,,,,,False
+80,Werkstudent Fullstack Developer Django/Vue.js,Softwareentwickler/in,2,63,20260728,Bundesagentur,,,,,,False
+81,Senior Full Stack Developer,Fullstack-Entwickler/in,2,65,20250522,Bundesagentur,,,,,,False
+82,JetBrains C/C++ Developer Advocate (m/f/d),Softwareentwickler/in,2,4,20260709,Bundesagentur,,,,,,False
+83,(Junior) Developer Automation RPA |,Prozessmanager/in - RPA,2,66,20240424,Bundesagentur,,,,,,False
+84,Lead Software Developer (w|m|d),Softwareentwickler/in,2,67,20260708,Bundesagentur,,,,,,False
+85,"Senior Software Developer für Mess-, Prüf- und Montagesysteme Berlin +1 EXT INT",Ingenieur/in - technische Informatik,2,68,20260617,Bundesagentur,,,,,,False
+86,"Senior Full Stack Developer (Python, Azure & AI)",Fullstack-Entwickler/in,6,46,20260702,Bundesagentur,,,,,,False
+87,Senior Python Engineer [m/w/d] - 100% Remote,Web Developer,6,61,20260529,Bundesagentur,,,,,,False
+88,Python / LangChain / KI Entwickler [m/w/d] - 100% Remote,Web Developer,6,61,20260529,Bundesagentur,,,,,,False
+89,Data Developer*,Entwickler/in - Datenvisualisierung,10,32,20260727,Bundesagentur,,,,,,False
+90,CFD Software Developer,Softwareentwickler/in,6,69,20260604,Bundesagentur,,,,,,False
+91,Senior AI Developer,KI-Engineer,6,62,20251219,Bundesagentur,,,,,,False
+92,Software Developer* Cloud-Technologien,Softwareentwickler/in,6,64,20250522,Bundesagentur,,,,,,False
+93,"Senior Full Stack Developer (Python, Azure & AI)",Fullstack-Entwickler/in,5,46,20260702,Bundesagentur,,,,,,False
+94,Software Developer (m/f/d),Ingenieur/in - Elektrotechnik,5,70,20260721,Bundesagentur,,,,,,False
+95,474/B - Softwarearchitekt Developer Experience,Software-Architect,5,41,20260731,Bundesagentur,,,,,,False
+96,IT Trainee - Software Engineer/Developer,Informatiker/in,5,71,20260731,Bundesagentur,,,,,,False
+97,Backend Developer (m/w/div.),Backend-Entwickler/in,7,72,20260619,Bundesagentur,,,,,,False
+98,Lead Software Developer (w|m|d),Softwareentwickler/in,5,67,20260708,Bundesagentur,,,,,,False
+99,Softwareentwickler mit Verantwortung im Qualitätsmanagement (Medizinprodukte),Medizininformatiker/in,5,73,20260723,Bundesagentur,,,,,,False
+100,Data Engineer,Data Engineer,2,7,20250210,Bundesagentur,,,,,,False
+101,Data Engineer,Datenbankentwickler/in,2,74,20260703,Bundesagentur,,,,,,False
+102,Cloud Data Engineer,Data Engineer,2,75,20260720,Bundesagentur,,,,,,False
+103,Data Engineer (d/m/w),Data Engineer,2,76,20260716,Bundesagentur,,,,,,False
+104,Data Engineer,Data Scientist,2,6,20260129,Bundesagentur,,,,,,False
+105,Data Engineer - Fintech - remote,Data Engineer,2,77,20260709,Bundesagentur,,,,,,False
+106,Data Engineer - Berlin,Datenbankentwickler/in,2,78,20260729,Bundesagentur,,,,,,False
+107,Data Engineer* / Machine Learning Engineer*,Data Engineer,2,64,20250522,Bundesagentur,,,,,,False
+108,Azure Data Platform Engineer,Data Engineer,2,79,20260714,Bundesagentur,,,,,,False
+109,Data Center Operations Engineer,Data Engineer,2,80,20260722,Bundesagentur,,,,,,False
+110,KI Data Engineer,Datenbankentwickler/in,2,81,20260703,Bundesagentur,,,,,,False
+111,Cloud Data Engineer,IT-Systemadministrator/in,2,82,20260703,Bundesagentur,,,,,,False
+112,Data Engineer  – KI-Anwendungsentwicklung und Datenanalyseplattformen,Data Engineer,2,83,20260323,Bundesagentur,,,,,,False
+113,Senior Data Engineer* Microsoft Fabric,Data Engineer,2,64,20260615,Bundesagentur,,,,,,False
+114,Senior Data Engineer* / Machine Learning Engineer*,Data Engineer,2,64,20250522,Bundesagentur,,,,,,False
+115,(Senior) Data Migration Engineer Schwerpunkt Teamcenter,Data Engineer,2,84,20260724,Bundesagentur,,,,,,False
+116,Senior Software Engineer Data (m/w/d/x),Data Engineer,2,85,20260712,Bundesagentur,,,,,,False
+117,"Data Engineer (all genders), Berlin",Data Engineer,2,60,20260622,Bundesagentur,,,,,,False
+118,Technical Data Engineer – ASD-Stammdaten / ILS,Data Engineer,2,34,20260723,Bundesagentur,,,,,,False
+119,(Junior) Data Engineer (m/f/d),Datenbankentwickler/in,2,86,20260703,Bundesagentur,,,,,,False
+120,Senior Data Engineer - Berlin,IT-Systemadministrator/in,2,78,20260720,Bundesagentur,,,,,,False
+121,Data Engineer - Digital Health Excellence Center,Data Engineer,2,87,20260126,Bundesagentur,,,,,,False
+122,Data Migration Engineer,Berufsspezialist/in - Softwareentwicklung,2,88,20260708,Bundesagentur,,,,,,False
+123,Berater Snowflake Data Engineer - AI & Data,Informatiker/in,2,87,20260722,Bundesagentur,,,,,,False
+124,Data Engineer,Data Engineer,6,89,20260729,Bundesagentur,,,,,,False
+125,Data Engineer,Data Engineer,6,7,20250210,Bundesagentur,,,,,,False
+126,Staff Data Engineer,Data Engineer,6,90,20260708,Bundesagentur,,,,,,False
+127,Data Engineer,Datenbankentwickler/in,6,91,20260703,Bundesagentur,,,,,,False
+128,Data Engineer,Informatiker/in,6,92,20260729,Bundesagentur,,,,,,False
+129,Data Engineer (all genders),Data Engineer,6,25,20260714,Bundesagentur,,,,,,False
+130,(Senior) Data/Analytics Engineer,Data Engineer,6,90,20260717,Bundesagentur,,,,,,False
+131,Data Engineer* / Machine Learning Engineer*,Data Engineer,6,64,20250522,Bundesagentur,,,,,,False
+132,(Senior) Data/Analytics Engineer,Data Engineer,6,29,20260716,Bundesagentur,,,,,,False
+133,Data Engineer - Fintech - remote,Data Engineer,6,77,20260709,Bundesagentur,,,,,,False
+134,Data Engineer SAS Base,Data Engineer,6,92,20260713,Bundesagentur,,,,,,False
+135,KI Data Engineer,Datenbankentwickler/in,6,81,20260703,Bundesagentur,,,,,,False
+136,IT-Anwendungsentwickler / Data Engineer,Data Engineer,6,92,20260409,Bundesagentur,,,,,,False
+137,Azure Data Platform Engineer,Data Engineer,6,79,20260714,Bundesagentur,,,,,,False
+138,Senior Data Engineer,Data-Consultant,6,93,20260605,Bundesagentur,,,,,,False
+139,Senior Data Engineer* Microsoft Fabric,Data Engineer,6,64,20260615,Bundesagentur,,,,,,False
+140,Senior Data Engineer* / Machine Learning Engineer*,Data Engineer,6,64,20250522,Bundesagentur,,,,,,False
+141,(Senior) Data Migration Engineer Schwerpunkt Teamcenter,Data Engineer,6,84,20260724,Bundesagentur,,,,,,False
+142,Data Engineer - Digital Health Excellence Center,Data Engineer,6,87,20260126,Bundesagentur,,,,,,False
+143,Data Engineer / Machine Learning Engineer,Datenbankentwickler/in,6,26,20260710,Bundesagentur,,,,,,False
+144,(Junior) Data Engineer (m/f/d),Datenbankentwickler/in,6,86,20260703,Bundesagentur,,,,,,False
+145,Data Engineer (all genders),Datenbankentwickler/in,6,94,20260703,Bundesagentur,,,,,,False
+146,Data Analytics Engineer,Business-Analyst/in,6,26,20260703,Bundesagentur,,,,,,False
+147,Data Engineer,Data Engineer,5,7,20250210,Bundesagentur,,,,,,False
+148,Principal Data Engineer,Data Engineer,5,58,20260717,Bundesagentur,,,,,,False
+149,Senior Data Engineer,Data Engineer,5,58,20260708,Bundesagentur,,,,,,False
+150,Azure Data Platform Engineer,Data Engineer,5,79,20260714,Bundesagentur,,,,,,False
+151,KI Data Engineer,Datenbankentwickler/in,5,81,20260703,Bundesagentur,,,,,,False
+152,(Senior) Data Migration Engineer Schwerpunkt Teamcenter,Data Engineer,5,84,20260724,Bundesagentur,,,,,,False
+153,Cloud Data Engineer,IT-Systemadministrator/in,5,82,20260703,Bundesagentur,,,,,,False
+154,Data Platform Engineer,Wirtschaftsinformatiker/in (Hochschule),5,41,20260714,Bundesagentur,,,,,,False
+155,Data Platform Engineer,Datenbankentwickler/in,5,95,20260717,Bundesagentur,,,,,,False
+156,Data Engineer / Software Entwickler *,Anwendungsprogrammierer/in,9,96,20260703,Bundesagentur,,,,,,False
+157,Data Engineer - Digital Health Excellence Center,Data Engineer,5,87,20260126,Bundesagentur,,,,,,False
+158,392/B - Data Platform Engineer,Softwareentwickler/in,5,41,20260714,Bundesagentur,,,,,,False
+159,Datacenter Engineer / Techniker,Data Engineer,5,97,20260730,Bundesagentur,,,,,,False
+160,Berater Snowflake Data Engineer - AI & Data,Informatiker/in,5,87,20260722,Bundesagentur,,,,,,False
+161,"Senior Data Engineer/ Fokus Snowflake, Infomotion GmbH",Data Engineer,5,59,20260219,Bundesagentur,,,,,,False
+162,Data & AI Platform Expert w/m/d,Data Engineer,5,98,20260721,Bundesagentur,,,,,,False
+163,Data Management Consultant / Data Engineer,IT-Berater/in,5,99,20260703,Bundesagentur,,,,,,False
+164,Junior Consultant Big Data Engineer,IT-Berater/in,5,100,20260703,Bundesagentur,,,,,,False
+165,Senior Data Engineer/ Fokus Snowflake,IT-Projektkoordinator/in,5,59,20260708,Bundesagentur,,,,,,False
+166,NTT DATA Deutschland SE: Senior Data Architect (w/m/x),Software-Architect,5,56,20260727,Bundesagentur,,,,,,False
+167,Data Centre Critical Facilities Engineer,Elektroniker/in - Energie- und Gebäudetechnik,5,101,20250117,Bundesagentur,,,,,,False
+168,Senior Data Warehouse Engineer & Architect (Oracle) m/w/d,IT-Projektkoordinator/in,5,102,20260726,Bundesagentur,,,,,,False
+169,Data Architect - Digital Health Excellence Center,Data Engineer,5,87,20260126,Bundesagentur,,,,,,False
+170,Machine Learning,Informatiker/in,2,7,20250210,Bundesagentur,,,,,,False
+171,Machine Learning Entwickler:in,Mathematiker/in,2,7,20250210,Bundesagentur,,,,,,False
+172,Principal Machine Learning Scientist (alle Gechlechter),Machine Learning Engineer,2,103,20260612,Bundesagentur,,,,,,False
+173,Principal Machine Learning Scientist (alle Geschlechter),Machine Learning Engineer,2,103,20260519,Bundesagentur,,,,,,False
+174,Machine Learning Engineer (all genders),IT-Systemadministrator/in,2,104,20260703,Bundesagentur,,,,,,False
+175,AS-2026-128: Mitarbeiter/in Bereich Anwendungsentwicklung mit Schwerpunkt Machine Learning,Verwaltungsangestellte/r - höherer Dienst,2,105,20260717,Bundesagentur,,,,,,False
+176,Senior Machine Learning Scientist / Data Engineer - Logistics Algorithms (all genders),Data Scientist,2,10,20260716,Bundesagentur,,,,,,False
+177,AI Engineer (f/m/x) - Berlin - Hybrid,Machine Learning Engineer,2,106,20260802,Bundesagentur,,,,,,False
+178,WL-1 QA Engineer,Machine Learning Engineer,2,107,20260324,Bundesagentur,,,,,,False
+179,"Staff Forward Deployed Engineer, GenAI, Google Cloud",Machine Learning Engineer,2,53,20260616,Bundesagentur,,,,,,False
+180,mgm technology partners GmbH: Softwareentwickler KI & Automatisierung,KI-Engineer,2,108,20260728,Bundesagentur,,,,,,False
+181,NTT DATA Deutschland SE: Senior AI & GenAI Architect (w/m/x),Software-Architect,2,56,20260726,Bundesagentur,,,,,,False
+182,Reinforcement Learning,Informatiker/in,2,7,20250127,Bundesagentur,,,,,,False
+183,"Home Office Dozent für strategisches KI-Management,Hamburg,Oldenburg,Han...",Machine Learning Engineer,2,109,20260702,Bundesagentur,,,,,,False
+184,Student Assistant with a focus on Machine Learning or Data Science (m/f/d) up to 19 hours per week,Wissenschaftliche/r Mitarbeiter/in,2,110,20260714,Bundesagentur,,,,,,False
+185,Principal ML Engineer (Agentic AI)-Vendor Data Team,Machine Learning Engineer,2,111,20260623,Bundesagentur,,,,,,False
+186,AI Systems Platform Development Engineer (40 hours/week),KI-Engineer,2,112,20260707,Bundesagentur,,,,,,False
+187,Senior Applied Scientist - Demand Forecast (all genders),Data Scientist,2,10,20260801,Bundesagentur,,,,,,False
+188,Senior ML Engineer (JetBrains Research) (m/f/d),Softwareentwickler/in,2,4,20260708,Bundesagentur,,,,,,False
+189,Senior Applied Scientist - Agentic AI (all genders),Data Scientist,2,10,20260730,Bundesagentur,,,,,,False
+190,Fachinformatiker - Daten- und Prozessanalyse,Fachinformatiker/in - Daten- und Prozessanalyse,2,113,20260709,Bundesagentur,,,,,,False
+191,Softwarearchitekt:in GIS,Software-Architect,2,14,20260730,Bundesagentur,,,,,,False
+192,Machine Learning,Informatiker/in,6,7,20250210,Bundesagentur,,,,,,False
+193,Machine Learning Entwickler:in,Mathematiker/in,6,7,20250210,Bundesagentur,,,,,,False
+194,Senior Machine Learning Expert (all genders),Machine Learning Engineer,6,25,20260710,Bundesagentur,,,,,,False
+195,Machine Learning Engineer (all genders),IT-Systemadministrator/in,6,104,20260703,Bundesagentur,,,,,,False
+196,Senior Machine Learning Expert (all genders),Data Scientist,6,114,20260713,Bundesagentur,,,,,,False
+197,Learning Experience Designer,KI-Manager/in,6,115,20260401,Bundesagentur,,,,,,False
+198,AI Engineering Lead - Hybrid,Machine Learning Engineer,6,116,20260729,Bundesagentur,,,,,,False
+199,"Staff Forward Deployed Engineer, GenAI, Google Cloud",Machine Learning Engineer,6,53,20260616,Bundesagentur,,,,,,False
+200,mgm technology partners GmbH: Softwareentwickler KI & Automatisierung,KI-Engineer,6,108,20260728,Bundesagentur,,,,,,False
+201,NTT DATA Deutschland SE: Senior AI & GenAI Architect (w/m/x),Software-Architect,6,56,20260726,Bundesagentur,,,,,,False
+202,Reinforcement Learning,Informatiker/in,6,7,20250127,Bundesagentur,,,,,,False
+203,"Home Office Dozent für strategisches KI-Management,Hamburg,Oldenburg,Han...",Machine Learning Engineer,6,109,20260702,Bundesagentur,,,,,,False
+204,Forschungsingenieur im Vessel LAB,Ingenieur/in - Schiffsbetriebstechnik,6,117,20260803,Bundesagentur,,,,,,False
+205,(Senior) Consultant Data Science - AI and Data,Informatiker/in,6,87,20260623,Bundesagentur,,,,,,False
+206,Berater AI Operationalization MLOps - AI & Data,Informatiker/in,6,87,20250602,Bundesagentur,,,,,,False
+207,Berater im Projektmanagement im öffentlichen Sektor - Business Transformation,Wirtschaftsingenieur/in,6,87,20250818,Bundesagentur,,,,,,False
+208,Berater Supply Chain Planning - Supply Chain & Operations,Betriebswirt/in (Hochschule),6,87,20250418,Bundesagentur,,,,,,False
+209,(Senior) Consultant Technology Transformation - Data & AI (Financial Services),Wirtschaftsinformatiker/in (Hochschule),6,87,20260223,Bundesagentur,,,,,,False
+210,(Senior) Consultant Digital Risk (Financial Services),Wirtschaftsinformatiker/in (Hochschule),6,87,20250610,Bundesagentur,,,,,,False
+211,(Senior) Consultant Digital Engineering & Emerging Technologies (Financial Services),Informatiker/in,6,87,20260617,Bundesagentur,,,,,,False
+212,(Senior) Manager Data & Analytics - Consulting (Financial Services),Wirtschaftsinformatiker/in (Hochschule),6,87,20260113,Bundesagentur,,,,,,False
+213,Machine Learning,Informatiker/in,5,7,20250210,Bundesagentur,,,,,,False
+214,Machine Learning Entwickler:in,Mathematiker/in,5,7,20250210,Bundesagentur,,,,,,False
+215,"AI Innovation Engineer, Google Cloud",Machine Learning Engineer,5,53,20260616,Bundesagentur,,,,,,False
+216,"AI Innovation Engineer, Deutsche Borse Group, Google Cloud",Machine Learning Engineer,5,53,20260611,Bundesagentur,,,,,,False
+217,NTT DATA Deutschland SE: Senior AI & GenAI Architect (w/m/x),Software-Architect,5,56,20260726,Bundesagentur,,,,,,False
+218,Reinforcement Learning,Informatiker/in,5,7,20250127,Bundesagentur,,,,,,False
+219,"Home Office Dozent für strategisches KI-Management,Hamburg,Oldenburg,Han...",Machine Learning Engineer,5,109,20260702,Bundesagentur,,,,,,False
+220,Projektmanager – Künstliche Intelligenz im Gesundheitswesen,Bachelor Professional - Künstliche Intelligenz und Maschinelles Lernen,5,118,20260717,Bundesagentur,,,,,,False
+221,Senior SW Engineer,Fachinformatiker/in - Anwendungsentwicklung,5,119,20260630,Bundesagentur,,,,,,False
+222,Praktikant*in im Bereich Big Data & Advanced Analytics - Data Scientist,Informatiker/in,5,71,20260713,Bundesagentur,,,,,,False
+223,Senior IT Expert Plattform Automation,IT-Manager/in,5,119,20251218,Bundesagentur,,,,,,False
+224,Business Analyst KI-Projekte und KI-Agenten (w|m|d),Business-Analyst/in,5,67,20251114,Bundesagentur,,,,,,False
+225,(Senior) Consultant Data Science - AI and Data,Informatiker/in,5,87,20260623,Bundesagentur,,,,,,False
+226,Lead IT Expert DevOps & Platform Engineering,IT-Manager/in,5,119,20251218,Bundesagentur,,,,,,False
+227,IT Expert DevOps / Platform Engineering,IT-Manager/in,5,119,20250919,Bundesagentur,,,,,,False
+228,Berater AI Operationalization MLOps - AI & Data,Informatiker/in,5,87,20250602,Bundesagentur,,,,,,False
+229,Duales Studium Finance and Management,Not provided,1,120,20260619,Bundesagentur,,,,,,False
+230,AI Engineer (w|m|d),Data Scientist,5,67,20230330,Bundesagentur,,,,,,False
+231,Senior AI Scientist,Informatiker/in,5,119,20260413,Bundesagentur,,,,,,False
+232,Consultant AI Strategy & Performance Management (w|m|d),IT-Berater/in,5,67,20260318,Bundesagentur,,,,,,False
+233,Data Science und Künstliche Intelligenz (B.Sc.) 2027,Not provided,5,121,20260623,Bundesagentur,,,,,,False
+234,Berater im Projektmanagement im öffentlichen Sektor - Business Transformation,Wirtschaftsingenieur/in,5,87,20250818,Bundesagentur,,,,,,False
+235,Berater Supply Chain Planning - Supply Chain & Operations,Betriebswirt/in (Hochschule),5,87,20250418,Bundesagentur,,,,,,False
+236,(Senior) Consultant Technology Transformation - Data & AI (Financial Services),Wirtschaftsinformatiker/in (Hochschule),5,87,20260223,Bundesagentur,,,,,,False
+237,Software Engineer,Softwareentwickler/in,2,122,20260729,Bundesagentur,,,,,,False
+238,Software Engineer,Ingenieur/in - Systems Engineering,2,123,20260802,Bundesagentur,,,,,,False
+239,Senior Software Engineer,Anwendungsprogrammierer/in,2,124,20260801,Bundesagentur,,,,,,False
+240,Software Engineer,Softwareentwickler/in,2,125,20260526,Bundesagentur,,,,,,False
+241,Software Engineer* für Datenprojekte,Data Engineer,2,64,20250522,Bundesagentur,,,,,,False
+242,FullStack Software Engineer,Anwendungsprogrammierer/in,2,126,20260716,Bundesagentur,,,,,,False
+243,Software Engineer - Security,Softwareentwickler/in,2,127,20260717,Bundesagentur,,,,,,False
+244,Senior Software Engineer,Softwareentwickler/in,2,128,20260626,Bundesagentur,,,,,,False
+245,Software Engineer – Fullstack,Fullstack-Entwickler/in,2,127,20260717,Bundesagentur,,,,,,False
+246,Software Engineer Full Stack,Informatiker/in,2,119,20260803,Bundesagentur,,,,,,False
+247,B98-C10	Software Engineer,Softwareentwickler/in,2,129,20260731,Bundesagentur,,,,,,False
+248,Embedded Software Engineer,Anwendungsprogrammierer/in,2,130,20260703,Bundesagentur,,,,,,False
+249,Software und Platform Engineer,IT-Lösungsentwickler/in,2,131,20260730,Bundesagentur,,,,,,False
+250,Fullstack Software Engineer - Go/PHP,Anwendungsprogrammierer/in,2,78,20260718,Bundesagentur,,,,,,False
+251,B60-C03 Software-Engineer,IT-Systemplaner/in,2,129,20260728,Bundesagentur,,,,,,False
+252,Software QA-Engineer,IT-Qualitätssicherungskoordinator/in,2,132,20260703,Bundesagentur,,,,,,False
+253,Senior Software Engineer Microservices,Softwareentwickler/in,2,119,20260715,Bundesagentur,,,,,,False
+254,SAP Entwickler / IT Software Engineer,Anwendungsprogrammierer/in,2,133,20260725,Bundesagentur,,,,,,False
+255,Software Development Engineer - 2026,Informatiker/in,2,134,20260723,Bundesagentur,,,,,,False
+256,Fullstack Software Engineer Tech & AI,IT-Lösungsentwickler/in,2,131,20260730,Bundesagentur,,,,,,False
+257,Full Stack Software Engineer,Bachelor Professional - IT (Softwareentwicklung),2,22,20260723,Bundesagentur,,,,,,False
+258,DevOps Engineer im Cloud Umfeld,DevOps Engineer,2,3,20250613,Bundesagentur,,,,,,False
+259,Senior Software Engineer (AppGlass) (m/f/d),Softwareentwickler/in,2,4,20260708,Bundesagentur,,,,,,False
+260,Software Engineer,Anwendungsprogrammierer/in,6,135,20260708,Bundesagentur,,,,,,False
+261,Software Engineer,Softwareentwickler/in,13,36,20260803,Bundesagentur,,,,,,False
+262,Software Engineer,Softwareentwickler/in,13,136,20260731,Bundesagentur,,,,,,False
+263,Software Engineer* für Datenprojekte,Data Engineer,6,64,20250522,Bundesagentur,,,,,,False
+264,Senior Software Engineer,Softwareentwickler/in,6,128,20260626,Bundesagentur,,,,,,False
+265,Software Engineer,Informatiker/in,13,137,20260710,Bundesagentur,,,,,,False
+266,Software Engineer Schwerpunkt Testautomatisierung,Softwareentwickler/in,6,138,20250219,Bundesagentur,,,,,,False
+267,Software Engineer (w/d/m) Schwerpunkt Entwicklungs-Workflows,Data Engineer,6,139,20260617,Bundesagentur,,,,,,False
+268,Software-Engineer (Angular),Bachelor Professional - IT (Softwareentwicklung),6,140,20260710,Bundesagentur,,,,,,False
+269,Matlab Software Engineer,Softwareentwickler/in,13,33,20260714,Bundesagentur,,,,,,False
+270,Senior Software Engineer Defense,Anwendungsprogrammierer/in,6,135,20260708,Bundesagentur,,,,,,False
+271,Software Engineer - Input Management,Anwendungsprogrammierer/in,6,141,20260703,Bundesagentur,,,,,,False
+272,Senior Inhouse Java Software Engineer,Software-Architect,6,29,20260519,Bundesagentur,,,,,,False
+273,Agentic Software Engineer (gn),Softwareentwickler/in,6,142,20260709,Bundesagentur,,,,,,False
+274,Software Engineer Full Stack,Informatiker/in,6,119,20260803,Bundesagentur,,,,,,False
+275,Research Software Engineer Leistungsoptimierung von HPC-Codes,Data Engineer,6,139,20260727,Bundesagentur,,,,,,False
+276,Software Engineer C++ & Architektur,Softwareentwickler/in,13,37,20260731,Bundesagentur,,,,,,False
+277,AI Software Engineer and Consultant (w/d/m),Anwendungsprogrammierer/in,6,143,20260728,Bundesagentur,,,,,,False
+278,(Senior) Software Engineer Financial Services,Softwareentwickler/in,6,128,20260707,Bundesagentur,,,,,,False
+279,Senior Software Engineer Microservices,Softwareentwickler/in,6,119,20260715,Bundesagentur,,,,,,False
+280,DevOps Engineer im Cloud Umfeld,DevOps Engineer,6,3,20250613,Bundesagentur,,,,,,False
+281,Software Engineer (gn) C++,Softwareentwickler/in,13,144,20260705,Bundesagentur,,,,,,False
+282,Embedded Software Test Engineer,Testingenieur/in,6,145,20260712,Bundesagentur,,,,,,False
+283,AI Engineer / Software Engineer (all genders),IT-Systemadministrator/in,6,146,20260703,Bundesagentur,,,,,,False
+284,B122-C01 Software Engineer / Cloud Backend Developer,Softwareentwickler/in,6,129,20260728,Bundesagentur,,,,,,False
+285,Software Engineer,Anwendungsprogrammierer/in,5,135,20260708,Bundesagentur,,,,,,False
+286,Senior Software Engineer,Softwareentwickler/in,5,58,20260722,Bundesagentur,,,,,,False
+287,Senior Software Engineer,Softwareentwickler/in,5,128,20260626,Bundesagentur,,,,,,False
+288,Senior Software Engineer,Ingenieur/in - Elektrotechnik,5,147,20260721,Bundesagentur,,,,,,False
+289,Software Engineer (m/f/d),Anwendungsprogrammierer/in,5,148,20260703,Bundesagentur,,,,,,False
+290,Software Engineer Full Stack,Informatiker/in,5,119,20260803,Bundesagentur,,,,,,False
+291,Azure Software Engineer,IT-Systemadministrator/in,5,149,20260703,Bundesagentur,,,,,,False
+292,Software Quality Engineer,Qualitätsingenieur/in,5,150,20260727,Bundesagentur,,,,,,False
+293,Senior Software Engineer Microservices,Softwareentwickler/in,5,119,20260715,Bundesagentur,,,,,,False
+294,Senior Software Engineer Defense,Anwendungsprogrammierer/in,5,135,20260708,Bundesagentur,,,,,,False
+295,DevOps Engineer im Cloud Umfeld,DevOps Engineer,5,3,20250613,Bundesagentur,,,,,,False
+296,Software Engineer CM500,Internettechnologe/-technologin,5,6,20260326,Bundesagentur,,,,,,False
+297,(Senior) Software Engineer Financial Services,Softwareentwickler/in,5,128,20260707,Bundesagentur,,,,,,False
+298,Senior Expert IT Software Engineer,Softwareentwickler/in,5,151,20260701,Bundesagentur,,,,,,False
+299,AI Software Engineer and Consultant (w/d/m),Anwendungsprogrammierer/in,5,143,20260728,Bundesagentur,,,,,,False
+300,Software Quality Assurance / QA Engineer,Informatiker/in,5,152,20260717,Bundesagentur,,,,,,False
+301,AI Engineer / Software Engineer (all genders),IT-Systemadministrator/in,5,146,20260703,Bundesagentur,,,,,,False
+302,B106-C02 Support Engineer,Serviceingenieur/in,5,129,20260730,Bundesagentur,,,,,,False
+303,Senior Software Engineer – Hybrid in Frankfurt / Rhein-Main,Software-Architect,11,153,20260430,Bundesagentur,,,,,,False
+304,Software Test Engineer / Testspezialist für digitale Online-Services,Informatiker/in,5,41,20260504,Bundesagentur,,,,,,False
+305,DevOps Engineer,DevOps Engineer,5,154,20250812,Bundesagentur,,,,,,False
+306,Project Engineer PSIM,Projektingenieur/in,5,152,20260106,Bundesagentur,,,,,,False
+307,Cisco System Engineer/Netzwerkadministrator - Firewall-Spezialist,Netzwerkadministrator/in,5,3,20250613,Bundesagentur,,,,,,False
+308,Data Analyst,,2,155,20260522,Adzuna,full_time,"Stellen aus PR, Werbung & Marketing",,,,False
+309,Data Analyst / Data Engineer,,2,156,20260716,Adzuna,full_time,Unknown,,,,False
+310,Junior Data Analyst - Consumer Marketing,,2,157,20250118,Adzuna,full_time,Beraterstellen,,,,False
+311,Data Analyst ( M/F/D ),,2,158,20260423,Adzuna,full_time,Unknown,,,,False
+312,Data Analyst – Fraud & Financial Crime,,2,159,20260724,Adzuna,Not provided,Stellen aus Buchhaltung & Finanzwesen,,,,False
+313,Data Analyst,,2,160,20260702,Adzuna,Not provided,IT-Stellen,,,,False
+314,Data Analyst,,2,161,20260717,Adzuna,Not provided,Unknown,,,,False
+315,Senior Data Analyst (m/f/d),,2,162,20260722,Adzuna,Not provided,Unknown,,,,False
+316,Finance Data Analyst,,2,163,20260726,Adzuna,full_time,Stellen aus Buchhaltung & Finanzwesen,,,,False
+317,Senior Marketing Data Analyst (all genders),,2,164,20260604,Adzuna,full_time,"Stellen aus PR, Werbung & Marketing",,,,False
+318,(Junior) Finance Data Analyst (all genders),,2,165,20260717,Adzuna,full_time,Unknown,45000.0,55000.0,50000.0,True
+319,NGS Data Analyst for Molecular Oncology,,2,166,20260716,Adzuna,full_time,Unknown,,,,False
+320,Data Analyst - Marketing,,2,167,20260801,Adzuna,full_time,"Stellen aus PR, Werbung & Marketing",,,,False
+321,Senior Data Analyst (m/f/d) - Berlin,,2,168,20260726,Adzuna,Not provided,IT-Stellen,,,,False
+322,Data Scientist / Data Analyst,,2,169,20260313,Adzuna,full_time,Unknown,,,,False
+323,Werkstudent | Working Student Data Analyst,,2,170,20260514,Adzuna,part_time,Unknown,,,,False
+324,Senior Data Analyst (AI-Enabled Analytics) (all genders),,2,171,20260606,Adzuna,full_time,"Stellen aus PR, Werbung & Marketing",,,,False
+325,Senior Data Analyst / Analytics Engineer,,2,172,20260612,Adzuna,full_time,"Stellen aus PR, Werbung & Marketing",70000.0,100000.0,85000.0,True
+326,Werkstudent Data Analyst - Reporting Services / Data Engineering & Intelligence,,2,173,20260620,Adzuna,full_time,Unknown,,,,False
+327,Data Quality Analyst Assistant,,2,174,20260724,Adzuna,full_time,IT-Stellen,,,,False
+328,Digitales Marketing und E-Commerce,,2,175,20260721,Adzuna,Not provided,Teilzeitstellen,,,,False
+329,"FinOps Data Analyst & Consultant - Business Analysis, Datenbankentwicklung/BI, Ingenieur",,2,176,20260802,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+330,Data Operations Analyst (m/f/d),,2,177,20260709,Adzuna,full_time,Unknown,,,,False
+331,(Senior) Data / Product Analyst (all identities),,2,178,20260801,Adzuna,full_time,Unknown,60000.0,70000.0,65000.0,True
+332,Data & Platform Analyst,,2,179,20260709,Adzuna,full_time,Unknown,,,,False
+333,Finance Data & AI Analyst Internship,,2,167,20260621,Adzuna,Not provided,IT-Stellen,,,,False
+334,"Data Management & AI Analyst im Gesundheitswesen Data Management, 100% Remote & Digital (Weiterbildung)",,2,180,20260716,Adzuna,full_time,Unknown,,,,False
+335,"Data Analytics, Data Science & AI Weiterbildung mit IHK-Abschluss | 100 % Remote",,2,180,20260716,Adzuna,full_time,Unknown,,,,False
+336,Refugees from Ukraine seeking work Data & Analytics,,2,181,20230307,Adzuna,Not provided,Unknown,,,,False
+337,Software Engineer – Data Processing & Backend,,2,182,20260512,Adzuna,full_time,IT-Stellen,,,,False
+338,Data Platform Engineer (Mid-Level) (m/f/d),,2,162,20260610,Adzuna,Not provided,Unknown,,,,False
+339,Data Engineering Consultant (w/m/x) - Germany,,2,183,20260703,Adzuna,Not provided,Unknown,,,,False
+340,"Cloud Engineer || Data & AI - System Engineering / Admin, Ingenieur",,2,176,20260802,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+341,Head of Pricing (m/f/x),,2,184,20260725,Adzuna,Not provided,Unknown,,,,False
+342,Interim Data Scientist Churn Prediction,,2,185,20260801,Adzuna,Not provided,Unknown,,,,False
+343,Kaufmann für Digitalisierungsmanagement 2027,,2,69,20260628,Adzuna,Not provided,Stellen aus Personal & Personalbeschaffung,,,,False
+344,TaxTech und FinTech Product Owner,,2,186,20260801,Adzuna,full_time,Unknown,,,,False
+345,Senior Analytics Engineer - Growth (m/f/d),,2,187,20260716,Adzuna,full_time,Unknown,,,,False
+346,Assistenz der Geschäftsführung,,2,188,20260522,Adzuna,full_time,Unknown,,,,False
+347,Ad Creative Strategist (Freelance),,2,189,20260716,Adzuna,Not provided,Unknown,,,,False
+348,"Data Science & Business Analytics, praxisnah lernen, 100 % Remote (Weiterbildung)",,2,180,20260716,Adzuna,full_time,Unknown,,,,False
+349,Analytics Engineer,,2,190,20260705,Adzuna,full_time,"Stellen aus PR, Werbung & Marketing",70000.0,140000.0,105000.0,True
+350,Senior Data Analyst - Germany,,8,191,20260531,Adzuna,full_time,Unknown,,,,False
+351,Data Analyst Data Insights (m/f/d),,8,192,20260719,Adzuna,full_time,Unknown,,,,False
+352,Data Analyst,,8,193,20260225,Adzuna,full_time,Unknown,,,,False
+353,Data Analyst (befristet) - all genders,,8,194,20260721,Adzuna,full_time,Unknown,,,,False
+354,Senior Data Analyst (m/f/d),,8,162,20260722,Adzuna,Not provided,Unknown,,,,False
+355,(Senior) Data Analyst (m/f/d),,8,195,20260512,Adzuna,full_time,Beraterstellen,,,,False
+356,Senior Energy Data Analyst (d/f/m),,8,196,20260513,Adzuna,full_time,Unknown,85000.0,110000.0,97500.0,True
+357,Junior Data Analyst Migration,,8,197,20260620,Adzuna,full_time,Unknown,42000.0,50000.0,46000.0,True
+358,Werkstudent Data Analyst - Internet,,8,198,20260728,Adzuna,part_time,Unknown,,,,False
+359,Data Analyst Materials Science bei Airbus,,8,199,20260410,Adzuna,Not provided,Unknown,,,,False
+360,(Senior) Data Analyst/in SAS in München,,8,200,20260227,Adzuna,full_time,IT-Stellen,60000.0,89961.0,74980.5,True
+361,Senior Data Analyst - Bereich Marketing,,8,201,20260408,Adzuna,full_time,Unknown,,,,False
+362,(Senior) Data Analyst (all genders) Marketing Science & Analytics,,8,202,20260717,Adzuna,full_time,"Stellen aus PR, Werbung & Marketing",,,,False
+363,Data Analyst - Automotive (M/W/D) - VISPIRON SYSTEMS,,8,203,20260717,Adzuna,Not provided,IT-Stellen,,,,False
+364,Data Analyst – Industrial & Automotive Consulting,,8,204,20260512,Adzuna,full_time,Beraterstellen,,,,False
+365,Data Analyst / Business Intelligence Analyst,,8,205,20260512,Adzuna,full_time,Unknown,,,,False
+366,Data Analyst Öffentlicher Dienst (1000€ Unterschriftsprämie),,8,206,20260512,Adzuna,full_time,Unknown,,,,False
+367,Senior DATA ANALYST (M/W/D) - Base Camp Management Consulting GmbH,,8,207,20260801,Adzuna,full_time,Unknown,,,,False
+368,"FinOps Data Analyst & Consultant - Business Analysis, Datenbankentwicklung/BI, Ingenieur",,8,176,20260802,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+369,Data Engineer / Analyst (m/f/d),,8,208,20260722,Adzuna,Not provided,Stellen aus Buchhaltung & Finanzwesen,,,,False
+370,Senior DevOps Engineer,,8,209,20260601,Adzuna,Not provided,IT-Stellen,,,,False
+371,"Finance, Data & Automation Analyst",,8,210,20260220,Adzuna,full_time,Unknown,,,,False
+372,"(Junior) Data & AI Analyst - Business Analysis, Ingenieur",,8,176,20260802,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+373,Projektmanager – Data Analytics / Data Science,,8,211,20260626,Adzuna,full_time,"Stellen aus PR, Werbung & Marketing",,,,False
+374,Projektmanager Data analytics / Data science (all gender),,8,212,20260717,Adzuna,Not provided,Beraterstellen,70000.0,80000.0,75000.0,True
+375,Data Engineering Consultant (w/m/x) - Germany,,8,183,20260703,Adzuna,Not provided,Unknown,,,,False
+376,Staff Analytics Engineer (1 Year Fixed-Term Contract),,8,213,20260619,Adzuna,Not provided,Technikerstellen,,,,False
+377,IT-Consultant HR IT,,8,214,20260730,Adzuna,full_time,Unknown,,,,False
+378,IT-Consultant HR IT in München,,8,215,20260730,Adzuna,full_time,IT-Stellen,,,,False
+379,"Cloud Engineer || Data & AI - System Engineering / Admin, Ingenieur",,8,176,20260802,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+380,(Junior) SEO Consultant,,8,216,20260708,Adzuna,full_time,Unknown,,,,False
+381,Data Engineer - Automotive (M/W/D) - VISPIRON SYSTEMS,,8,203,20260723,Adzuna,Not provided,IT-Stellen,,,,False
+382,"IT Architekt und Consultant für Datenmanagement (w|m|d) - Projektmanagement, Business Analysis, Datenbankentwicklung/BI, Ingenieur",,8,217,20260730,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+383,"Upskilling als Controller: Daten Management mit KI, Azure & Power BI – für den schnellen Wiedereinstieg",,8,218,20260720,Adzuna,full_time,Unknown,,,,False
+384,Specialist Performance Marketing & SEA,,8,219,20260801,Adzuna,part_time,Unknown,,,,False
+385,(Junior) Commercial Operations Manager,,8,220,20260711,Adzuna,full_time,Unknown,,,,False
+386,Data Scientist and Process Mining Architect,,8,221,20260512,Adzuna,full_time,Unknown,,,,False
+387,Sales Operations Manager / Specialist,,8,222,20260716,Adzuna,full_time,Unknown,,,,False
+388,(Junior) Commercial Operations Manager - Peter Park System,,8,223,20260802,Adzuna,full_time,Unknown,,,,False
+389,Senior Data Engineer,,8,224,20260716,Adzuna,full_time,Unknown,,,,False
+390,(Junior) Commercial Operations Manager,,8,222,20260722,Adzuna,full_time,Unknown,,,,False
+391,Senior Analytics & BI Developer (m/f/d),,8,225,20260714,Adzuna,full_time,Unknown,,,,False
+392,Data Engineer,,8,226,20260429,Adzuna,full_time,Unknown,54000.0,67000.0,60500.0,True
+393,"Analytical Consultant, Digital First",,8,227,20260717,Adzuna,Not provided,Beraterstellen,,,,False
+394,(Junior) Commercial Operations Manager,,8,228,20260716,Adzuna,full_time,Unknown,,,,False
+395,Senior Business Analyst - ALL IN GROUP GmbH (myposter),,8,229,20260802,Adzuna,full_time,Unknown,,,,False
+396,Data Analyst als Senior Consultant SAP Analytics Cloud & Power BI,,6,230,20260108,Adzuna,full_time,Unknown,,,,False
+397,Fraud & Asset Risk Strategy Manager,,6,231,20260725,Adzuna,Not provided,Unknown,,,,False
+398,Data Analyst (all genders),,6,232,20260717,Adzuna,full_time,Unknown,,,,False
+399,Senior Data Analyst - Hamburg,,6,168,20260726,Adzuna,Not provided,IT-Stellen,,,,False
+400,Freelance Data Analyst (all genders),,6,233,20260801,Adzuna,Not provided,Beraterstellen,,,,False
+401,Data Analyst,,6,234,20260707,Adzuna,full_time,Stellen aus Buchhaltung & Finanzwesen,115000.0,115000.0,115000.0,True
+402,Data Analyst,,6,235,20260410,Adzuna,Not provided,Unknown,,,,False
+403,Senior Business & Data Analyst,,6,236,20260703,Adzuna,full_time,Unknown,,,,False
+404,Senior Data Analyst - Product (f/m/x),,6,237,20260512,Adzuna,full_time,Unknown,,,,False
+405,Senior Data Analyst - Strategy & Insights (f/m/x),,6,238,20260716,Adzuna,full_time,Unknown,,,,False
+406,Senior Data Analyst - Strategy & Insights (f/m/x),,6,237,20260618,Adzuna,full_time,Unknown,,,,False
+407,Data Analyst – Reporting & Power BI,,6,239,20250731,Adzuna,full_time,Unknown,,,,False
+408,Working Student Energy Data Analyst,,6,240,20260529,Adzuna,part_time,Stellen aus Logistik & Lagerhaltung,,,,False
+409,Data Analyst Controlling mit Schwerpunkt Reporting und Automatisierung,,6,241,20260722,Adzuna,full_time,Unknown,,,,False
+410,"Data Analyst - The Data School Deutschland, Hamburg",,6,242,20260717,Adzuna,Not provided,Unknown,39000.0,44000.0,41500.0,True
+411,"(Junior) Data Analyst Campaigning - Business Analysis, Datenbankentwicklung/BI, Ingenieur",,6,26,20260730,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+412,Data Analyst Consultant - Quereinsteiger willkommen! DSDE 14 - 01. März 2027,,6,243,20260617,Adzuna,Not provided,Lehrberufe,,,,False
+413,Werkstudent Data Engineer / Analyst,,6,244,20260714,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+414,(Senior) Data / BI Analyst - Operations,,6,245,20260714,Adzuna,full_time,Unknown,,,,False
+415,IT Admin,,6,246,20240730,Adzuna,part_time,Unknown,,,,False
+416,Analyst Data & Research bei Airbus,,6,199,20260728,Adzuna,Not provided,Unknown,,,,False
+417,Data Engineer,,6,185,20260721,Adzuna,full_time,Unknown,,,,False
+418,"Data Engineer Campaign & Analytics - Business Analysis, Datenbankentwicklung/BI, Ingenieur",,6,26,20260731,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+419,Werkstudentin/Werkstudent Microsoft Data Analytics & AI (DA&AI),,6,247,20260803,Adzuna,part_time,Unknown,,,,False
+420,Senior Data Engineer - Data Analytics Plattform (a*),,6,248,20260716,Adzuna,full_time,Unknown,,,,False
+421,Professional Data Engineer,,6,249,20260520,Adzuna,full_time,Unknown,,,,False
+422,Analytics Engineer (all genders),,6,250,20260731,Adzuna,full_time,Unknown,,,,False
+423,Analytics Engineer (all genders),,6,251,20260731,Adzuna,Not provided,Unknown,,,,False
+424,"IT Architekt und Consultant für Datenmanagement (w|m|d) - Projektmanagement, Business Analysis, Datenbankentwicklung/BI, Ingenieur",,6,217,20260730,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+425,Data Engineer (all genders),,6,232,20260717,Adzuna,full_time,Unknown,,,,False
+426,Head of Product E-Commerce / Product Lead,,6,252,20260613,Adzuna,full_time,Stellen aus Logistik & Lagerhaltung,,,,False
+427,Stellenangebot Werkstudent*in (gn) Data Analytics,,6,253,20260606,Adzuna,part_time,"Stellen aus PR, Werbung & Marketing",,,,False
+428,Bachelor thesis in the field of SAP ERP & Data Analytics (d/f/m),,6,254,20260723,Adzuna,Not provided,Unknown,,,,False
+429,Bachelor thesis in the field of SAP ERP & Data Analytics (d/f/m),,6,255,20260723,Adzuna,full_time,"Stellen aus PR, Werbung & Marketing",,,,False
+430,Senior Data Engineer,,6,256,20260724,Adzuna,full_time,Unknown,,,,False
+431,Senior Quant Trading Analyst (f/m/x),,6,257,20260724,Adzuna,Not provided,Stellen aus Buchhaltung & Finanzwesen,,,,False
+432,Snowflake Data Engineer (all genders),,6,258,20260716,Adzuna,full_time,Unknown,,,,False
+433,"Analytical Consultant, Digital First",,6,227,20260716,Adzuna,Not provided,Unknown,,,,False
+434,Data Engineer Wind Energy (m/f/d),,6,259,20260521,Adzuna,Not provided,Technikerstellen,,,,False
+435,Business Analyst (Automation & Reporting),,6,260,20260719,Adzuna,full_time,Unknown,,,,False
+436,Senior Manager - MDM Technology & Governance (m/f/d),,6,261,20260716,Adzuna,full_time,Unknown,,,,False
+437,Team Lead Marketing Analytics,,6,262,20260524,Adzuna,full_time,"Stellen aus PR, Werbung & Marketing",,,,False
+438,Senior Head of Product,,6,263,20241108,Adzuna,full_time,Unknown,,,,False
+439,Data Analysts im Bereich Finanzaufsicht,,5,55,20260801,Adzuna,Not provided,Unknown,,,,False
+440,Zwei Data Analysts im Bereich Finanzaufsicht,,5,55,20260721,Adzuna,Not provided,Unknown,,,,False
+441,Data Analyst als Senior Consultant SAP Analytics Cloud & Power BI,,5,230,20260108,Adzuna,full_time,Unknown,,,,False
+442,HR Data Analyst*in (befristet),,5,264,20260721,Adzuna,Not provided,Unknown,,,,False
+443,(Senior) Data Analyst - Finance,,5,265,20260606,Adzuna,full_time,Stellen aus Buchhaltung & Finanzwesen,,,,False
+444,Senior Data Analyst,,5,234,20260801,Adzuna,full_time,IT-Stellen,60000.0,90000.0,75000.0,True
+445,Werkstudent Data Analyst,,5,266,20260716,Adzuna,Not provided,Unknown,,,,False
+446,Senior Retail Data Analyst,,5,234,20260729,Adzuna,full_time,IT-Stellen,60000.0,85000.0,72500.0,True
+447,Lead Data Analyst bis 100.000 €,,5,234,20260729,Adzuna,full_time,IT-Stellen,80000.0,100000.0,90000.0,True
+448,"Business & Data Analyst in Sales, Marketing und Distribution Controlling",,5,267,20260716,Adzuna,Not provided,Unknown,,,,False
+449,"Data Analyst | Facility Management m/w/d - Business Analysis, Datenbankentwicklung/BI, Ingenieur",,5,268,20260728,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+450,"IT Architekt und Consultant für Datenmanagement (w|m|d) - Projektmanagement, Business Analysis, Datenbankentwicklung/BI, Ingenieur",,5,217,20260730,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+451,"Deine Chance: Datenmanagement Upskilling - SQL, Microsoft Azure & Power BI für den schnellen Wiedereinstieg",,5,218,20260720,Adzuna,full_time,Unknown,,,,False
+452,Mitarbeiter Data & Analytics - Business Intelligence,,5,173,20260730,Adzuna,full_time,IT-Stellen,,,,False
+453,Country Manager Germany,,5,269,20260501,Adzuna,Not provided,Unknown,,,,False
+454,Senior SAP Signavio Process Expert/ Process Mining Expert- Lead Consultant,,5,270,20260721,Adzuna,full_time,Beraterstellen,,,,False
+455,Solutions Engineer -Data/Graph,,5,271,20260605,Adzuna,Not provided,Unknown,,,,False
+456,Revenue Analyst RMCC Europe,,5,272,20260801,Adzuna,Not provided,Unknown,,,,False
+457,Snowflake Data Engineer (all genders),,5,258,20260716,Adzuna,full_time,Unknown,,,,False
+458,"Analytical Consultant, Digital First",,5,227,20260716,Adzuna,Not provided,Unknown,,,,False
+459,Working Student - Product Master Application - Asset Management,,5,273,20260724,Adzuna,Not provided,Unknown,,,,False
+460,Senior / Principal Consultant* - Business Functional Analyst Reporting & MIS (Private Banking),,5,274,20260721,Adzuna,Not provided,Unknown,,,,False
+461,Senior / Principal Consultant* – Business Functional Analyst Reporting & MIS (Private Banking),,5,275,20260625,Adzuna,Not provided,Beraterstellen,,,,False
+462,Data Solution Architect,,5,273,20260729,Adzuna,Not provided,Unknown,,,,False
+463,Data Analyst als Senior Consultant SAP Analytics Cloud & Power BI,,4,230,20260108,Adzuna,full_time,Unknown,,,,False
+464,Staff Data Analyst (m/f/d),,4,276,20260730,Adzuna,Not provided,Technikerstellen,,,,False
+465,Senior Data Analyst (m/f/d),,4,276,20260718,Adzuna,Not provided,Unknown,,,,False
+466,Data Analyst HR (m/f/d),,4,276,20260429,Adzuna,full_time,Stellen aus Personal & Personalbeschaffung,65000.0,85000.0,75000.0,True
+467,Senior Marketing Data Analyst (all genders),,4,5,20260716,Adzuna,Not provided,"Stellen aus PR, Werbung & Marketing",,,,False
+468,Senior Marketing Data Analyst (all genders),,4,164,20260612,Adzuna,full_time,"Stellen aus PR, Werbung & Marketing",,,,False
+469,Data Analyst Einkaufscontrolling,,4,277,20260717,Adzuna,part_time,Unknown,,,,False
+470,Data Analyst & Anwendungsbetreuer im Controlling,,4,278,20260306,Adzuna,full_time,Unknown,,,,False
+471,(Senior) Data Analyst - Finance Focus (m/f/d),,4,276,20260729,Adzuna,Not provided,Unknown,,,,False
+472,Data Analyst - Power BI & IOT m/w/d,,4,279,20260704,Adzuna,Not provided,Unknown,,,,False
+473,"Data Analyst | Facility Management m/w/d - Business Analysis, Datenbankentwicklung/BI, Ingenieur",,4,268,20260728,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+474,Senior Data Engineer (m/f/d),,4,276,20260707,Adzuna,Not provided,Unknown,,,,False
+475,Senior HR Business Analyst,,4,280,20251001,Adzuna,Not provided,Unknown,,,,False
+476,No-Code/ Low-Code - Specialist,,4,281,20260703,Adzuna,full_time,Unknown,,,,False
+477,No-Code/ Low-Code - Specialist,,4,282,20260705,Adzuna,full_time,Unknown,,,,False
+478,(Senior) Business Analyst (all genders) International,,4,283,20260310,Adzuna,part_time,Unknown,,,,False
+479,Senior Product Designer,,4,276,20260716,Adzuna,Not provided,Unknown,,,,False
+480,Senior Data Engineer,,4,256,20260724,Adzuna,full_time,Unknown,,,,False
+481,Snowflake Data Engineer (all genders),,4,258,20260716,Adzuna,full_time,Unknown,,,,False
+482,Senior Product Owner - Digital Ops (all genders),,4,284,20260720,Adzuna,full_time,Stellen aus Logistik & Lagerhaltung,,,,False
+483,Python Developer - Fully Remote,,2,285,20260624,Adzuna,Not provided,Unknown,,,,False
+484,Python Developer - Remote in Germany,,2,286,20260716,Adzuna,Not provided,IT-Stellen,93600.0,166400.0,130000.0,True
+485,Python Developer / Data Scientist – Von Rohdaten zu echten Lösungen,,2,287,20260403,Adzuna,full_time,Unknown,,,,False
+486,Python & PHP Developer (all genders) 32-35h/Woche,,2,288,20260512,Adzuna,full_time,IT-Stellen,,,,False
+487,Senior Backend Developer Python - Conversario,,2,289,20260612,Adzuna,full_time,IT-Stellen,,,,False
+488,AI Fullstack Engineer,,2,290,20260707,Adzuna,full_time,IT-Stellen,,,,False
+489,Senior Python FastAPI Software Engineer,,2,291,20260729,Adzuna,full_time,Technikerstellen,169000.0,208000.0,188500.0,True
+490,Senior Python Software Engineer,,2,292,20250407,Adzuna,full_time,IT-Stellen,,,,False
+491,"Quantitative Developer, Systematic Power Trading",,2,293,20260709,Adzuna,full_time,IT-Stellen,,,,False
+492,Senior Backend Entwickler,,2,294,20260723,Adzuna,full_time,Unknown,,,,False
+493,Full Stack Engineer - Fully Remote,,2,285,20260624,Adzuna,Not provided,Unknown,,,,False
+494,Senior Full Stack Developer,,2,285,20260701,Adzuna,Not provided,Unknown,,,,False
+495,Principal Python Engineer,,2,295,20260127,Adzuna,Not provided,Technikerstellen,,,,False
+496,"Senior Platform & Backend Engineer (Kubernetes, Python) (m/f/d)",,2,296,20260729,Adzuna,full_time,Unknown,72000.0,84000.0,78000.0,True
+497,"Junior Backend Developer (Java / Python, Microservices)",,8,297,20260710,Adzuna,full_time,Unknown,,,,False
+498,"Junior Full Stack Developer, Python  React (m/f/d)",,8,298,20260512,Adzuna,full_time,IT-Stellen,,,,False
+499,Senior Data Engineer (F/M/D),,8,299,20260528,Adzuna,full_time,Technikerstellen,,,,False
+500,Senior Embedded Linux Engineer (all genders) - Yocto · Python · IoT Edge,,8,300,20260710,Adzuna,full_time,IT-Stellen,,,,False
+501,Working Student (m/f/d) – AI Engineering (On-site),,8,301,20260629,Adzuna,part_time,Unknown,,,,False
+502,"Senior Solutions Architect, Infiniband and Networking Ethernet",,8,302,20260606,Adzuna,Not provided,Unknown,,,,False
+503,(Senior) Robotics Testing and Applications Engineer (m/f/d),,8,303,20260728,Adzuna,full_time,Unknown,,,,False
+504,Senior DevOps Engineer,,8,304,20260623,Adzuna,full_time,Unknown,,,,False
+505,Senior DevOps Engineer,,8,305,20260603,Adzuna,full_time,Unknown,,,,False
+506,Senior Software Architect (m/f/d) Robotics,,8,303,20251014,Adzuna,full_time,Unknown,,,,False
+507,Unreal Engine Developer (Mid-Level / Senior) – Synthetic Data & AI Simulation,,8,306,20260709,Adzuna,full_time,Unknown,,,,False
+508,3D Artist - Automotive Data Preparation,,8,307,20260717,Adzuna,Not provided,Unknown,,,,False
+509,3D Artist - Automotive Data Preparation,,8,308,20260717,Adzuna,Not provided,Unknown,,,,False
+510,Python Developer in Hamburg,,6,309,20260515,Adzuna,full_time,IT-Stellen,,,,False
+511,Senior Backend Python Developer in Hamburg,,6,309,20260515,Adzuna,full_time,IT-Stellen,,,,False
+512,(Senior) Python Software Developer - Software Engineer,,6,310,20251102,Adzuna,full_time,IT-Stellen,,,,False
+513,Senior Backend Developer Python (m/f/d),,6,311,20260227,Adzuna,full_time,IT-Stellen,,,,False
+514,Lead Senior Software Developer - PYTHON,,6,310,20251031,Adzuna,full_time,IT-Stellen,,,,False
+515,AI driven Senior Backend Developer Python (m/f/d),,6,311,20260218,Adzuna,full_time,IT-Stellen,,,,False
+516,(Senior) Full-stack Developer - Backend Focus (Python),,6,311,20260218,Adzuna,full_time,IT-Stellen,,,,False
+517,"Software Developer:in Fokus: API, Python & KI-Automatisierung",,6,312,20260716,Adzuna,full_time,Unknown,,,,False
+518,(Senior) Software Entwickler - Python,,6,310,20251102,Adzuna,full_time,IT-Stellen,,,,False
+519,Senior-Fullstack-Developer - Python & React,,6,313,20260718,Adzuna,full_time,Unknown,,,,False
+520,Python-Entwickler,,6,314,20260730,Adzuna,full_time,IT-Stellen,60000.0,80000.0,70000.0,True
+521,(Senior) Data Engineer (all genders),,6,250,20260715,Adzuna,full_time,Unknown,,,,False
+522,Staff Data Engineer in Hamburg,,6,309,20260709,Adzuna,full_time,Unknown,,,,False
+523,Senior Machine Learning Anti-Spoof Expert (all genders),,6,232,20260520,Adzuna,full_time,IT-Stellen,,,,False
+524,Senior Machine Learning Anti-Spoof Expert (all genders),,6,114,20260717,Adzuna,full_time,Unknown,,,,False
+525,Safety Software Test Engineer (m/f/d),,6,259,20260701,Adzuna,Not provided,Technikerstellen,,,,False
+526,Internship Energy Analyst (m/f/d),,6,187,20260716,Adzuna,Not provided,Unknown,,,,False
+527,Working Student Energy Analyst (m/f/d),,6,187,20260716,Adzuna,Not provided,Unknown,,,,False
+528,Internship Energy Analyst (m/f/d),,6,240,20260529,Adzuna,full_time,Stellen aus Logistik & Lagerhaltung,,,,False
+529,Python Developer,,5,315,20250919,Adzuna,Not provided,Beraterstellen,,,,False
+530,Python Developers,,5,316,20260612,Adzuna,Not provided,Unknown,,,,False
+531,Fullstack Developer React/ Python - Remote in Germany,,5,317,20260716,Adzuna,full_time,Unknown,,,,False
+532,"Senior Fullstack Developer Python, Angular, AWS",,5,69,20260801,Adzuna,full_time,Unknown,,,,False
+533,Cloud Solution Architect 110.000€,,5,234,20260709,Adzuna,full_time,IT-Stellen,80000.0,110000.0,95000.0,True
+534,Senior Backend / Platform Engineer (f/x/m),,5,318,20260716,Adzuna,full_time,Unknown,,,,False
+535,Python Backend Developer Energy Flexibility Applications,,4,319,20260517,Adzuna,part_time,IT-Stellen,,,,False
+536,Lead Developer Python,,4,320,20260728,Adzuna,full_time,IT-Stellen,,,,False
+537,Senior AI Engineer,,4,321,20260716,Adzuna,full_time,Unknown,,,,False
+538,Platform Engineer mit Fokus auf Developer Experience,,4,322,20260717,Adzuna,Not provided,IT-Stellen,,,,False
+539,IT & Web Administrator,,4,323,20260716,Adzuna,full_time,Unknown,,,,False
+540,Lead Data Engineer (m/f/d) - Tieto Tech Consulting,,2,324,20260630,Adzuna,Not provided,Unknown,,,,False
+541,Data Engineer (d/m/w),,2,325,20260723,Adzuna,Not provided,Unknown,,,,False
+542,Data Engineer,,2,326,20260520,Adzuna,full_time,Sonstige/Allgemeine Stellen,,,,False
+543,Data Engineer,,2,327,20260726,Adzuna,full_time,Unknown,,,,False
+544,Data Engineer,,2,328,20260604,Adzuna,full_time,Unknown,,,,False
+545,Data Engineer,,2,190,20260705,Adzuna,full_time,Unknown,80000.0,150000.0,115000.0,True
+546,Data Engineer,,2,329,20260725,Adzuna,Not provided,Unknown,,,,False
+547,Senior Data Engineer,,2,330,20260508,Adzuna,full_time,Sonstige/Allgemeine Stellen,,,,False
+548,"Data Engineer, Fraud",,2,331,20260608,Adzuna,full_time,Verwaltungsstellen,,,,False
+549,Senior Data Engineer,,2,332,20260729,Adzuna,full_time,Technikerstellen,,,,False
+550,Senior Data Engineer,,2,333,20260618,Adzuna,full_time,Unknown,,,,False
+551,Senior Data Engineer,,2,334,20260719,Adzuna,Not provided,IT-Stellen,,,,False
+552,AI Data Engineer,,2,335,20260603,Adzuna,full_time,Unknown,,,,False
+553,Data Engineer - Fully Remote,,2,285,20260701,Adzuna,Not provided,Unknown,,,,False
+554,Data Engineer (all genders),,2,336,20260718,Adzuna,Not provided,Unknown,,,,False
+555,Data Engineer (all genders),,2,337,20260710,Adzuna,full_time,Unknown,,,,False
+556,Data Engineer - AI Coding Expert,,2,285,20260624,Adzuna,Not provided,Unknown,,,,False
+557,Data Engineer (m/f/d),,2,338,20260619,Adzuna,full_time,Verwaltungsstellen,,,,False
+558,Data Engineer,,2,339,20260721,Adzuna,Not provided,Unknown,,,,False
+559,Data Engineer,,2,340,20260711,Adzuna,Not provided,Unknown,,,,False
+560,Data Engineer (all genders) in Berlin,,2,228,20260802,Adzuna,full_time,Unknown,,,,False
+561,Data Engineer,,2,341,20260728,Adzuna,Not provided,Stellen aus Personal & Personalbeschaffung,,,,False
+562,Cloud Data Engineer (all genders),,2,228,20260716,Adzuna,full_time,Unknown,,,,False
+563,Data Engineer,,2,342,20260724,Adzuna,Not provided,Stellen aus Buchhaltung & Finanzwesen,,,,False
+564,Senior Data Engineer (all genders),,2,343,20241127,Adzuna,full_time,Unknown,,,,False
+565,Senior Data Engineer - Internal Platform,,2,344,20260418,Adzuna,Not provided,IT-Stellen,,,,False
+566,Data Engineer (f/m/x),,2,345,20260728,Adzuna,full_time,Unknown,,,,False
+567,"Senior Data Engineer, Constellation Services",,2,346,20260712,Adzuna,Not provided,Unknown,,,,False
+568,Snowflake Data Engineer (all genders),,2,258,20260716,Adzuna,full_time,Unknown,,,,False
+569,Production Data Engineer (all genders),,2,347,20260706,Adzuna,full_time,Unknown,,,,False
+570,(Junior) Data Engineer - Data Platform (m/f/d),,2,187,20260728,Adzuna,Not provided,Unknown,,,,False
+571,"Data Engineer II, Operations - Quick Commerce",,2,348,20260728,Adzuna,Not provided,IT-Stellen,,,,False
+572,Senior Data Engineer (m/f/d),,2,349,20260721,Adzuna,Not provided,IT-Stellen,,,,False
+573,(Senior) Data Engineer (m/f/x),,2,350,20260730,Adzuna,Not provided,Technikerstellen,,,,False
+574,Senior Data Engineer,,2,351,20260731,Adzuna,full_time,IT-Stellen,,,,False
+575,Lead Data Engineer,,2,352,20260709,Adzuna,full_time,Unknown,,,,False
+576,Data Engineer / DevOps Engineer (all genders),,2,353,20260716,Adzuna,Not provided,Unknown,,,,False
+577,Senior Data Engineer (m/f/d),,2,354,20260716,Adzuna,full_time,Unknown,,,,False
+578,Data Engineer (all genders) Business Intelligence,,2,355,20260723,Adzuna,Not provided,Unknown,,,,False
+579,Senior Data Engineer,,2,58,20260716,Adzuna,full_time,Unknown,,,,False
+580,Principal Data Engineer,,2,58,20260716,Adzuna,full_time,Unknown,,,,False
+581,(Senior) Data Engineer,,2,356,20260507,Adzuna,full_time,Unknown,,,,False
+582,(Senior) Data Engineer (m/f/d),,2,177,20260512,Adzuna,full_time,Unknown,,,,False
+583,Senior Data Engineer Snowflake,,8,357,20260729,Adzuna,Not provided,Unknown,,,,False
+584,Senior Applied AI / ML Data Engineer (f/m/x),,8,358,20260801,Adzuna,Not provided,Unknown,,,,False
+585,Data Engineer,,8,359,20260709,Adzuna,full_time,Stellen aus Buchhaltung & Finanzwesen,,,,False
+586,Data Engineer,,8,360,20260730,Adzuna,full_time,Unknown,,,,False
+587,Azure Data Platform Engineer,,8,79,20260107,Adzuna,full_time,IT-Stellen,,,,False
+588,Data Engineer — Orbital Data Pipelines,,8,361,20260627,Adzuna,full_time,IT-Stellen,,,,False
+589,Lead Data Engineer - Data Migration & Lakehouse,,8,362,20260719,Adzuna,full_time,Unknown,,,,False
+590,Lead Data Engineer - Data Migration & Lakehouse,,8,363,20260717,Adzuna,full_time,Unknown,,,,False
+591,Working student Data Engineer,,8,208,20260722,Adzuna,Not provided,Stellen aus Buchhaltung & Finanzwesen,,,,False
+592,Data Engineer (m/f/d),,8,338,20260619,Adzuna,full_time,Verwaltungsstellen,,,,False
+593,Data Engineer,,8,339,20260721,Adzuna,Not provided,Unknown,,,,False
+594,Data Engineer,,8,228,20260721,Adzuna,part_time,Unknown,,,,False
+595,Data Engineer,,8,364,20260716,Adzuna,full_time,Unknown,,,,False
+596,Snowflake Data Engineer (all genders),,8,258,20260716,Adzuna,full_time,Unknown,,,,False
+597,Data Engineer (m/f/d),,8,195,20260512,Adzuna,full_time,Beraterstellen,,,,False
+598,(Senior) Data Engineer Data & AI,,8,365,20260715,Adzuna,Not provided,IT-Stellen,,,,False
+599,(Senior) Data Engineer (m/f/x),,8,350,20260730,Adzuna,Not provided,Technikerstellen,,,,False
+600,Senior Data Engineer,,8,366,20260424,Adzuna,Not provided,Beraterstellen,,,,False
+601,(Senior) Data Engineer,,8,313,20260716,Adzuna,full_time,Unknown,,,,False
+602,Senior Data Engineer,,8,367,20260716,Adzuna,full_time,Unknown,,,,False
+603,Cloud Data Engineer,,8,368,20260716,Adzuna,full_time,Unknown,,,,False
+604,Principal Data Engineer (m/f/d),,8,369,20260516,Adzuna,Not provided,IT-Stellen,,,,False
+605,Sustainability Data Engineer (all genders) | carbmee,,8,370,20260729,Adzuna,full_time,Unknown,,,,False
+606,(Senior) Data Engineer,,8,58,20260717,Adzuna,Not provided,Unknown,,,,False
+607,Data Scientist / Data Engineer,,8,313,20260716,Adzuna,full_time,Unknown,,,,False
+608,Senior Snowflake Data Engineer,,8,371,20260715,Adzuna,full_time,Unknown,,,,False
+609,Data Engineer (all genders) in München - PRODYNA SE,,8,372,20260801,Adzuna,full_time,Unknown,,,,False
+610,Expert Perception Data Engineer (m/f/d),,8,373,20260524,Adzuna,full_time,Unknown,,,,False
+611,(Senior) Data Engineer – Kunden Integration (all genders),,8,202,20260429,Adzuna,full_time,Unknown,,,,False
+612,Senior Data Engineer – Snowflake,,8,371,20260512,Adzuna,full_time,Unknown,,,,False
+613,Senior Data Engineer – 100 % remote,,8,374,20260721,Adzuna,full_time,Unknown,,,,False
+614,"Data Engineer PostgreSQL | Migrationen und Schnittstellen | Inhouse, bis 100.000€ (mwd)",,8,375,20260802,Adzuna,full_time,Unknown,,,,False
+615,Senior Consultant Data Modernization - Data Engineer,,8,173,20260609,Adzuna,full_time,Unknown,,,,False
+616,Praktikum Data Engineer im Bereich Advanced Analytics,,8,376,20260427,Adzuna,Not provided,Unknown,,,,False
+617,Data Engineer - ALL IN GROUP GmbH (myposter),,8,229,20260802,Adzuna,full_time,Unknown,,,,False
+618,Senior Data Engineer,,6,377,20260802,Adzuna,Not provided,Unknown,,,,False
+619,Senior Data Engineer Snowflake,,6,59,20260607,Adzuna,Not provided,Unknown,,,,False
+620,Senior Data Engineer Schwerpunkt KI und Automatisierung,,6,378,20260714,Adzuna,Not provided,Unknown,,,,False
+621,Trainee Data Engineer / Data Scientist,,6,230,20260731,Adzuna,full_time,IT-Stellen,,,,False
+622,Senior Data Engineer Snowflake,,6,357,20260722,Adzuna,Not provided,Sonstige/Allgemeine Stellen,,,,False
+623,IT-Spezialist als Trainee Data Engineer / Data Scientist,,6,230,20260731,Adzuna,full_time,IT-Stellen,,,,False
+624,Data Engineer als Senior Berater Projektmanagement & Kundenlösungen,,6,230,20260108,Adzuna,full_time,Unknown,,,,False
+625,Data Engineer / ETL-Developer im IT Consulting,,6,230,20250709,Adzuna,full_time,Unknown,,,,False
+626,"IT-Spezialist als Trainee Data Engineer - SAP BW, Data-Warehouse",,6,230,20260731,Adzuna,full_time,IT-Stellen,,,,False
+627,Wirtschaftsinformatiker als Trainee Data Engineer - SAP Analytics Cloud,,6,230,20260731,Adzuna,full_time,IT-Stellen,,,,False
+628,Computer Engineer as Trainee Data Engineer / Data Scientist,,6,230,20260731,Adzuna,full_time,IT-Stellen,,,,False
+629,IT-Ingenieur als Trainee Data Engineer SAP BTP - Business Intelligence,,6,230,20260731,Adzuna,full_time,IT-Stellen,,,,False
+630,Azure Data & Integration Engineer,,6,379,20260726,Adzuna,full_time,IT-Stellen,,,,False
+631,Data Engineer (all genders),,6,380,20260707,Adzuna,full_time,Unknown,,,,False
+632,System Platform Engineer KI,,6,381,20260802,Adzuna,Not provided,IT-Stellen,,,,False
+633,Data Engineer,,6,382,20231005,Adzuna,full_time,Unknown,,,,False
+634,Data Engineer (all genders) in Hamburg,,6,228,20260803,Adzuna,full_time,Unknown,,,,False
+635,Data Engineer,,6,383,20260512,Adzuna,full_time,Beraterstellen,,,,False
+636,Data Engineer,,6,327,20260801,Adzuna,full_time,Unknown,,,,False
+637,(Senior) Data Engineer (all genders),,6,251,20260716,Adzuna,Not provided,Unknown,,,,False
+638,(Junior) Data Engineer - Data Platform (m/f/d),,6,245,20260728,Adzuna,full_time,Unknown,,,,False
+639,Data Engineer Hamburg,,6,89,20260730,Adzuna,full_time,Unknown,,,,False
+640,INTERIM Data Engineer Databricks / dbt (gn),,6,185,20260724,Adzuna,Not provided,Unknown,,,,False
+641,Data Engineer / DevOps Engineer (all genders),,6,353,20260716,Adzuna,Not provided,Unknown,,,,False
+642,Data Engineer Datenplattform,,6,384,20260205,Adzuna,full_time,Unknown,,,,False
+643,Principal Data Engineer (m/f/d),,6,369,20260411,Adzuna,Not provided,IT-Stellen,,,,False
+644,Senior Data Engineer,,6,262,20260618,Adzuna,full_time,Unknown,,,,False
+645,Senior Data Engineer,,6,377,20260314,Adzuna,full_time,Unknown,,,,False
+646,Senior Data Engineer (m/f/d),,6,385,20260512,Adzuna,full_time,Unknown,,,,False
+647,Senior Data Engineer Snowflake,,5,357,20260618,Adzuna,Not provided,Unknown,,,,False
+648,"Data Center Chief Engineer, DCEO",,5,386,20260722,Adzuna,Not provided,IT-Stellen,,,,False
+649,Data Engineer als Senior Berater Projektmanagement & Kundenlösungen,,5,230,20260108,Adzuna,full_time,Unknown,,,,False
+650,Data Engineer / ETL-Developer im IT Consulting,,5,230,20250709,Adzuna,full_time,Unknown,,,,False
+651,"Chief Engineer - Data Center Engineering Operations (m/f), DC Engineering and Facility Operations",,5,386,20260729,Adzuna,Not provided,Unknown,,,,False
+652,"Data Center Chief Engineer, DCEO",,5,387,20260715,Adzuna,full_time,Unknown,,,,False
+653,AI & Data Operations Engineer,,5,388,20260725,Adzuna,part_time,Juristische Stellen,,,,False
+654,Azure Data Platform Engineer,,5,79,20260107,Adzuna,full_time,IT-Stellen,,,,False
+655,Data Engineer,,5,339,20260721,Adzuna,Not provided,Unknown,,,,False
+656,Data Engineer,,5,89,20260730,Adzuna,full_time,Unknown,,,,False
+657,Data Engineer (all genders) in Frankfurt,,5,228,20260801,Adzuna,full_time,Unknown,,,,False
+658,Data Engineer,,5,69,20260801,Adzuna,full_time,Unknown,,,,False
+659,Data Engineer (m/f/d),,5,389,20260708,Adzuna,full_time,Unknown,,,,False
+660,Data Engineer Data Warehouse,,5,390,20250224,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+661,Senior Data Engineer (all genders) - AWS,,5,391,20260512,Adzuna,full_time,Unknown,,,,False
+662,Senior Data Engineer (m/f/d),,5,392,20260527,Adzuna,full_time,Unknown,,,,False
+663,Senior Data Engineer,,5,58,20260716,Adzuna,full_time,Unknown,,,,False
+664,Principal Data Engineer,,5,58,20260718,Adzuna,full_time,Unknown,,,,False
+665,Data Engineer NLP,,5,393,20260512,Adzuna,full_time,IT-Stellen,,,,False
+666,Data Architect / Data Engineer,,5,313,20260716,Adzuna,full_time,Unknown,,,,False
+667,Data Engineer im Banking-Umfeld,,5,390,20250224,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+668,(Senior) Consultant Data Engineer,,5,394,20260512,Adzuna,full_time,Beraterstellen,,,,False
+669,Data Engineer (all genders) in Frankfurt - PRODYNA SE,,5,372,20260801,Adzuna,full_time,Unknown,,,,False
+670,Senior BI Developer / Data Engineer,,5,313,20260803,Adzuna,full_time,Unknown,,,,False
+671,Junior Consultant Big Data Engineer,,5,394,20260512,Adzuna,full_time,Beraterstellen,,,,False
+672,"Chief Engineer - Data Center Engineering Operations (m/f), DC Engineering and Facility Operations",,5,387,20260610,Adzuna,full_time,Unknown,,,,False
+673,Senior Consultant Data Modernization - Data Engineer,,5,173,20260609,Adzuna,full_time,Unknown,,,,False
+674,Regulatory Reporting & Data Engineer SQL / ETL,,5,395,20260514,Adzuna,full_time,Unknown,,,,False
+675,(Senior) Data Engineer für Technologieberatung im Bankingumfeld - Frankfurt am Main,,5,396,20260729,Adzuna,full_time,Unknown,,,,False
+676,Freelance Data Scraping Engineer (Python),,5,397,20260730,Adzuna,part_time,Sonstige/Allgemeine Stellen,,,,False
+677,"Senior Data Engineer/ Fokus Snowflake - Projektmanagement, Anwendungsentwicklung, Datenbankentwicklung/BI, Ingenieur",,5,59,20260801,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+678,Senior Python Data Scraping Engineer (Freelance),,5,397,20260730,Adzuna,part_time,Sonstige/Allgemeine Stellen,,,,False
+679,Microsoft Data Security Engineer,,5,313,20260720,Adzuna,full_time,Unknown,,,,False
+680,Solution Engineer - Data & AI,,5,398,20260628,Adzuna,full_time,IT-Stellen,,,,False
+681,Data Centre Cost Engineer,,5,399,20260624,Adzuna,Not provided,Stellen aus Logistik & Lagerhaltung,,,,False
+682,"Data Center Chief Engineer, DCEO",,5,400,20260702,Adzuna,full_time,Unknown,,,,False
+683,"Data Center Chief Engineer, DCEO",,5,123,20260703,Adzuna,Not provided,Unknown,,,,False
+684,"Data Platform Engineer - Datenbankentwicklung/BI, Ingenieur",,5,95,20260801,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+685,"Customer Success Engineer, Data Center Learning",,5,400,20260709,Adzuna,full_time,Unknown,,,,False
+686,"Customer Success Engineer, Data Center Learning",,5,123,20260711,Adzuna,Not provided,Unknown,,,,False
+687,Senior Full Stack Data Engineer,,4,401,20260722,Adzuna,Not provided,IT-Stellen,,,,False
+688,Senior Data Engineer Snowflake,,4,59,20260623,Adzuna,Not provided,Unknown,,,,False
+689,Data Product Engineer,,4,402,20260803,Adzuna,Not provided,Unknown,,,,False
+690,Senior Data Engineer Snowflake,,4,357,20260722,Adzuna,Not provided,Sonstige/Allgemeine Stellen,,,,False
+691,Data Engineer / ETL-Developer im IT Consulting,,4,230,20250709,Adzuna,full_time,Unknown,,,,False
+692,Data Engineer als Senior Berater Projektmanagement & Kundenlösungen,,4,230,20260108,Adzuna,full_time,Unknown,,,,False
+693,Azure Data Engineer,,4,316,20260612,Adzuna,Not provided,Unknown,,,,False
+694,Data Engineer - FileMaker,,4,403,20260703,Adzuna,full_time,Unknown,,,,False
+695,Azure Data Platform Engineer,,4,79,20260107,Adzuna,full_time,IT-Stellen,,,,False
+696,Data Engineer,,4,339,20260721,Adzuna,Not provided,Unknown,,,,False
+697,Data Engineer,,4,89,20260730,Adzuna,full_time,Unknown,,,,False
+698,Data Engineer (m/f/d),,4,276,20260423,Adzuna,full_time,Unknown,78000.0,108000.0,93000.0,True
+699,Staff Data Engineer (all genders),,4,284,20260625,Adzuna,full_time,Stellen aus Logistik & Lagerhaltung,,,,False
+700,Data Engineer,,4,161,20250723,Adzuna,Not provided,Unknown,,,,False
+701,Senior Data Engineer (all genders),,4,283,20260605,Adzuna,part_time,Unknown,,,,False
+702,Data Engineers,,4,404,20260730,Adzuna,full_time,IT-Stellen,50000.0,60000.0,55000.0,True
+703,Senior Data Engineer - Data Integration & Analytics (all genders),,4,258,20260720,Adzuna,full_time,Unknown,,,,False
+704,Senior Data Engineer,,4,89,20260728,Adzuna,full_time,Unknown,,,,False
+705,(Senior) Data Engineer,,4,89,20260731,Adzuna,full_time,Unknown,,,,False
+706,(Junior) Data Engineer,,4,405,20260716,Adzuna,full_time,Unknown,,,,False
+707,Junior Data Engineer,,4,406,20260512,Adzuna,full_time,Beraterstellen,,,,False
+708,Junior Data Engineer,,4,407,20260716,Adzuna,full_time,Unknown,,,,False
+709,(Senior) Data Engineer,,4,408,20260724,Adzuna,full_time,Unknown,,,,False
+710,Data Engineer Software,,4,402,20260717,Adzuna,Not provided,IT-Stellen,,,,False
+711,Snowflake Data Engineer,,4,409,20260605,Adzuna,full_time,Unknown,,,,False
+712,Junior Data Engineer,,4,89,20260728,Adzuna,full_time,Unknown,,,,False
+713,Data Scientist / Data Engineer,,4,313,20260716,Adzuna,full_time,Unknown,,,,False
+714,Data Engineer für Microsoft Fabric,,4,410,20260530,Adzuna,full_time,Unknown,,,,False
+715,Data Engineer (all Genders) mit Schwerpunkt Microsoft Fabric,,4,411,20260716,Adzuna,full_time,Unknown,,,,False
+716,Data Engineer Working Student,,4,412,20260731,Adzuna,part_time,Unknown,,,,False
+717,Senior Consultant Data Modernization - Data Engineer,,4,173,20260608,Adzuna,full_time,Unknown,,,,False
+718,Praktikum Data Engineer im Bereich Advanced Analytics,,4,376,20260427,Adzuna,Not provided,Unknown,,,,False
+719,"Data Engineer in Berlin, Köln, Leipzig, Münster (*)",,4,413,20260716,Adzuna,full_time,Unknown,,,,False
+720,(Senior) Data Engineer für Technologieberatung im Bankingumfeld - Frankfurt am Main,,4,396,20260729,Adzuna,full_time,Unknown,,,,False
+721,Senior Data Engineer - Microsoft Fabric & Power BI,,4,414,20260725,Adzuna,Not provided,Unknown,,,,False
+722,Data Platform Engineer in Köln (*),,4,413,20260716,Adzuna,full_time,Unknown,,,,False
+723,Data Observability Engineer (*) in Köln,,4,413,20260802,Adzuna,full_time,Unknown,,,,False
+724,"Senior Data Engineer/ Fokus Snowflake - Projektmanagement, Anwendungsentwicklung, Datenbankentwicklung/BI, Ingenieur",,4,59,20260801,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+725,Data Platform Engineer,,4,415,20260724,Adzuna,part_time,Unknown,,,,False
+726,Senior Data/ML Engineer (all genders),,4,284,20260621,Adzuna,full_time,Stellen aus Logistik & Lagerhaltung,,,,False
+727,Data & Backend Engineer (f/w/d),,4,228,20260802,Adzuna,full_time,Unknown,,,,False
+728,Machine Learning Engineer,,2,416,20240920,Adzuna,full_time,IT-Stellen,,,,False
+729,Machine Learning Engineer,,2,417,20260723,Adzuna,full_time,IT-Stellen,,,,False
+730,Machine Learning Engineer,,2,190,20251211,Adzuna,full_time,IT-Stellen,80000.0,210000.0,145000.0,True
+731,Azubi zum Fachinformatiker für Daten- und Prozessanalyse (w/m/x) im Werk [3 Plätze],,2,358,20260801,Adzuna,Not provided,Unknown,,,,False
+732,Senior Machine Learning Engineer,,2,418,20260611,Adzuna,full_time,IT-Stellen,,,,False
+733,Senior Machine Learning Engineer,,2,419,20260717,Adzuna,Not provided,IT-Stellen,,,,False
+734,Machine Learning Expert - Fully Remote,,2,285,20260701,Adzuna,Not provided,Unknown,,,,False
+735,Machine Learning Werkstudent:in/ Praktikant:in (all),,2,420,20260328,Adzuna,part_time,Unknown,,,,False
+736,Senior Machine Learning Engineer I,,2,329,20260709,Adzuna,Not provided,IT-Stellen,,,,False
+737,Senior/Staff Machine Learning Engineer,,2,421,20260606,Adzuna,full_time,IT-Stellen,,,,False
+738,Tech Analyst Fraud Platform,,2,422,20260716,Adzuna,Not provided,Unknown,,,,False
+739,AI & Machine Learning Engineer (all genders),,2,228,20260716,Adzuna,full_time,Unknown,,,,False
+740,Machine Learning Engineer,,2,423,20260716,Adzuna,full_time,Unknown,,,,False
+741,Principal Machine Learning Scientist (alle Geschlechter),,2,424,20260616,Adzuna,Not provided,IT-Stellen,,,,False
+742,Senior Machine Learning Engineer (all genders),,2,228,20260728,Adzuna,full_time,Unknown,,,,False
+743,"Senior Machine Learning Engineer, AI Platform",,2,425,20260613,Adzuna,Not provided,IT-Stellen,,,,False
+744,Senior Machine Learning Engineer (ASR) (all),,2,420,20260731,Adzuna,full_time,Unknown,,,,False
+745,Senior Machine Learning Engineer (m/f/*),,2,426,20260716,Adzuna,full_time,Unknown,,,,False
+746,Senior Machine Learning Engineer (all genders),,2,427,20260611,Adzuna,full_time,IT-Stellen,,,,False
+747,Senior SAP CX Consultant (all genders),,2,258,20260623,Adzuna,Not provided,IT-Stellen,,,,False
+748,"Machine Learning Scientist (all genders) - Hybrid, Berlin",,2,428,20260512,Adzuna,full_time,IT-Stellen,,,,False
+749,Machine Learning Engineer - Talent Pool (m/f/d),,2,429,20260512,Adzuna,full_time,IT-Stellen,,,,False
+750,Machine Learning Ops Engineer - Personalization (m|w|d),,2,430,20260724,Adzuna,full_time,IT-Stellen,,,,False
+751,"Machine Learning Working Student (all genders) - Hybrid, Berlin",,2,428,20260512,Adzuna,part_time,IT-Stellen,,,,False
+752,Werkstudent:in Informatik / KI / Machine Learning,,2,431,20260723,Adzuna,part_time,Unknown,,,,False
+753,Senior Product Manager - Machine Learning (m/f/d),,2,432,20260618,Adzuna,full_time,IT-Stellen,,,,False
+754,"Software Dev Engineer Intern Machine Learning, Amazon Robotics",,2,433,20260703,Adzuna,full_time,Unknown,,,,False
+755,"Software Dev Engineer Intern Machine Learning, Amazon Robotics",,2,123,20260703,Adzuna,full_time,IT-Stellen,,,,False
+756,Senior IT Security Experte w/m/d - Cyber Defence,,2,98,20260722,Adzuna,Not provided,Sonstige/Allgemeine Stellen,,,,False
+757,Senior Machine Learning Engineer in Berlin or remote | AI Platform,,2,434,20260728,Adzuna,full_time,Unknown,,,,False
+758,Senior Machine Learning Engineer (all genders) - PDR.cloud GmbH,,2,435,20260801,Adzuna,full_time,Unknown,,,,False
+759,"Mathematiker*in / Physiker*in für KI, Machine Learning & Modellierung",,2,182,20260512,Adzuna,full_time,IT-Stellen,,,,False
+760,Data Science & Machine Learning for Life-Science,,2,436,20260716,Adzuna,full_time,Unknown,,,,False
+761,Senior Machine Learning Engineer - PDR.cloud GmbH,,2,435,20260801,Adzuna,Not provided,Stellen aus Buchhaltung & Finanzwesen,,,,False
+762,Senior Machine Learning Scientist / Data Engineer - Logistics Algorithms (all genders),,2,427,20260711,Adzuna,full_time,Stellen aus Logistik & Lagerhaltung,,,,False
+763,"Senior Staff Machine Learning Engineer, Menu Personalisation (m,f,x)",,2,437,20260702,Adzuna,full_time,IT-Stellen,,,,False
+764,"(Junior) Machine Learning Engineer - System Engineering / Admin, Ingenieur",,2,176,20260729,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+765,(Senior) Data Scientist - KI und ML - FinTech,,2,77,20260723,Adzuna,full_time,IT-Stellen,,,,False
+766,Senior Machine Learning Research Scientist (m/f/d) - Generative AI for Drug Design,,2,438,20260706,Adzuna,full_time,Stellen aus Kreation & Design,,,,False
+767,Bachelorarbeit / Masterarbeit IT Consulting,,2,217,20260624,Adzuna,Not provided,IT-Stellen,,,,False
+768,Psychologie&Künstliche Intelligenz | Bachelor of Science (B.Sc.),,2,439,20260721,Adzuna,Not provided,Teilzeitstellen,,,,False
+769,Junior HR Business Partner / Agile Coach – Quereinstieg,,2,440,20260721,Adzuna,part_time,IT-Stellen,,,,False
+770,Computer Science PhD (Germany),,2,286,20260606,Adzuna,part_time,IT-Stellen,,,,False
+771,"(Junior) Data Scientist - Datenbankentwicklung/BI, Ingenieur",,2,176,20260801,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+772,"Doktorand / Doktorandin (d/w/m) in der medizinischen Bildgebung, Elastographie",,2,441,20260728,Adzuna,Not provided,Unknown,,,,False
+773,"Junior GenAI Engineer - System Engineering / Admin, Ingenieur",,2,176,20260801,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+774,Machine Learning / AI Developer for Industrial Laser Processes (m/f/d - all genders),,8,442,20260729,Adzuna,full_time,IT-Stellen,,,,False
+775,Machine Learning Engineer ANÜ,,8,443,20260802,Adzuna,full_time,Stellen aus Gastronomie & Catering,,,,False
+776,Dualer Student Data Science & Scientific Computing (w/m/x),,8,358,20260801,Adzuna,Not provided,Stellen aus Wissenschaft & Qualitätssicherung,,,,False
+777,Machine Learning Engineer,,8,444,20260716,Adzuna,Not provided,Unknown,,,,False
+778,"Professur für Data, AI & Transformation Management",,8,445,20260720,Adzuna,Not provided,Unknown,,,,False
+779,Sachbearbeiter Business Intelligence & Datenqualität,,8,446,20260801,Adzuna,Not provided,Unknown,,,,False
+780,Intern Machine Learning (all genders),,8,444,20260716,Adzuna,Not provided,Unknown,,,,False
+781,Abschlussarbeit Machine Learning (all genders),,8,424,20260610,Adzuna,Not provided,Unknown,,,,False
+782,Senior Applied AI Architect - Automated Driving,,8,358,20260727,Adzuna,Not provided,IT-Stellen,,,,False
+783,Softwareentwickler - Machine Learning,,8,442,20260728,Adzuna,Not provided,Unknown,,,,False
+784,Working Student Machine Learning (all genders),,8,444,20260716,Adzuna,Not provided,Unknown,,,,False
+785,Senior Machine Learning Engineer (ASR) (all),,8,447,20260512,Adzuna,full_time,IT-Stellen,,,,False
+786,Machine Learning Engineer ANÜ,,8,448,20260725,Adzuna,full_time,IT-Stellen,,,,False
+787,Machine Learning Engineer ANÜ,,8,449,20260727,Adzuna,full_time,Sonstige/Allgemeine Stellen,,,,False
+788,(Senior) Machine Learning Engineer,,8,450,20260716,Adzuna,full_time,Unknown,,,,False
+789,Machine Learning Werkstudent/Praktikum,,8,451,20260512,Adzuna,part_time,IT-Stellen,,,,False
+790,Entwickler Maschinelles Lernen / KI für industrielle Laserprozesse (m/w/d - all genders),,8,442,20260729,Adzuna,Not provided,Unknown,,,,False
+791,Senior Engineer - Audio Machine Learning (18-Month Leased Labor),,8,452,20260611,Adzuna,Not provided,Unknown,,,,False
+792,Internship Machine Learning (Synthetic Data Generation) (f/m/x),,8,453,20260620,Adzuna,full_time,IT-Stellen,,,,False
+793,Senior Product Owner - AI & Machine Learning (f/m/x),,8,453,20260620,Adzuna,full_time,IT-Stellen,,,,False
+794,"(Senior) Machine Learning Engineer, Robot Learning (m/f/d)",,8,454,20260724,Adzuna,Not provided,Unknown,70000.0,120000.0,95000.0,True
+795,"Internship in Machine Learning, Visual Language (Action) Models (f/m/x)",,8,453,20260620,Adzuna,full_time,IT-Stellen,,,,False
+796,Senior ML Engineer - Next-Generation Autonomous Driving (f/m/x),,8,358,20260802,Adzuna,Not provided,Unknown,,,,False
+797,"(Junior) Machine Learning Engineer - System Engineering / Admin, Ingenieur",,8,176,20260729,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+798,Data Scientist / AI Engineer - Fokus Machine Learning & GenAI,,8,455,20260716,Adzuna,full_time,Unknown,,,,False
+799,Senior AI Engineer - Human-Like Behaviour (f/m/x),,8,358,20260701,Adzuna,Not provided,Unknown,,,,False
+800,(Senior) Data Scientist - KI und ML - FinTech,,8,77,20260723,Adzuna,full_time,IT-Stellen,,,,False
+801,Senior Embedded AI Developer (f/m/x),,8,358,20260801,Adzuna,Not provided,Unknown,,,,False
+802,Senior Applied AI / ML Engineer (f/m/x),,8,358,20260801,Adzuna,Not provided,Unknown,,,,False
+803,Sachbearbeiter Business Intelligence & Datenqualität,,8,456,20260801,Adzuna,Not provided,Unknown,,,,False
+804,Masterarbeit in der virtuellen Ausbildungssimulation,,8,456,20260718,Adzuna,Not provided,Unknown,,,,False
+805,Fachinformatiker für Systemintegration - Digitales Lernen 2027,,8,69,20260721,Adzuna,Not provided,Stellen aus Personal & Personalbeschaffung,,,,False
+806,"(Junior) Data Scientist - Datenbankentwicklung/BI, Ingenieur",,8,176,20260801,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+807,R&D Engineer - AI Integration (m/f/d),,8,457,20260725,Adzuna,Not provided,Unknown,,,,False
+808,im Bereich Data Intelligence,,8,458,20260612,Adzuna,Not provided,Unknown,,,,False
+809,Softwarearchitekt*in als Teamleitung (all genders) BigData,,8,459,20260727,Adzuna,Not provided,Unknown,,,,False
+810,"(Junior) AI Application Engineer || AI Products LLM & RAG - Anwendungsentwicklung, Ingenieur",,8,176,20260729,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+811,"Junior GenAI Engineer - System Engineering / Admin, Ingenieur",,8,176,20260801,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+812,Praktikant Data Science im Bereich Engine Health Monitoring (all genders),,8,424,20260610,Adzuna,Not provided,IT-Stellen,,,,False
+813,Masterarbeit über maschinelles Lernen für die Konnektivität in Non-Terrestrial Networks,,8,460,20260716,Adzuna,Not provided,Unknown,,,,False
+814,PhD student in the field of development and processing of composite structures (d/f/m),,8,461,20260731,Adzuna,Not provided,Unknown,,,,False
+815,Tenure Track Assistant Professor in Process Robotics in Bioprocess Engineering,,8,462,20260727,Adzuna,Not provided,Technikerstellen,,,,False
+816,Softwarearchitekt*in als Teamleitung (all genders) BigData,,8,424,20260724,Adzuna,Not provided,IT-Stellen,,,,False
+817,"(Junior) Agentic AI Software Engineer - Anwendungsentwicklung, Ingenieur",,8,176,20260801,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+818,Senior AI / ML Engineer für Technologieberatung im Bankingumfeld - Frankfurt am Main,,8,396,20260728,Adzuna,full_time,Unknown,,,,False
+819,Agentic AI Engineer (f/m/x),,8,358,20260801,Adzuna,Not provided,Unknown,,,,False
+820,Werkstudent Produktauffindbarkeit | Product Management,,6,463,20260701,Adzuna,Not provided,Unknown,,,,False
+821,SAP Berater FI/CO,,6,464,20260607,Adzuna,Not provided,IT-Stellen,,,,False
+822,SAP Berater Logistik,,6,464,20260725,Adzuna,Not provided,Unknown,,,,False
+823,Principal Machine Learning Engineer (f/m/x),,6,238,20260717,Adzuna,Not provided,Unknown,,,,False
+824,Principal Machine Learning Engineer (f/m/x),,6,237,20260719,Adzuna,full_time,IT-Stellen,,,,False
+825,(Senior) Consultant Machine Learning,,6,465,20260512,Adzuna,full_time,IT-Stellen,,,,False
+826,Werkstudent im Bereich Machine Learning & KI,,6,466,20251122,Adzuna,Not provided,IT-Stellen,,,,False
+827,KI Spezialist / Machine Learning Engineer,,6,185,20260721,Adzuna,full_time,Unknown,,,,False
+828,Teamlead Artificial Intelligence - MLOps / Machine Learning,,6,467,20260729,Adzuna,Not provided,Sonstige/Allgemeine Stellen,,,,False
+829,Dualer Master: Junior Consultant Machine Learning,,6,468,20260317,Adzuna,full_time,IT-Stellen,24000.0,30000.0,27000.0,True
+830,"Senior Fullstack Softwareentwickler KI-Lösungen, InsurTech",,6,469,20260708,Adzuna,Not provided,IT-Stellen,,,,False
+831,"Data Engineer / Machine Learning Engineer - Datenbankentwicklung/BI, Ingenieur",,6,26,20260731,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+832,Engineer für Conversational AI,,6,470,20260726,Adzuna,Not provided,Unknown,,,,False
+833,(Senior) Data Scientist - KI und ML - FinTech,,6,77,20260723,Adzuna,full_time,IT-Stellen,,,,False
+834,Postdoctoral Researcher in Aerosol & Liquid Jet Dynamics,,6,471,20260727,Adzuna,Not provided,Unknown,,,,False
+835,Mechatronics Engineer – Scientific Instrumentation,,6,471,20260727,Adzuna,Not provided,Technikerstellen,,,,False
+836,Berufsbegleitendes Studium - Data Science & Artificial Intelligence (M.Sc.) / Master@Encavis,,6,472,20260715,Adzuna,Not provided,Unknown,,,,False
+837,Berater für Digitale Transformation & KI – Ideal für Quereinsteiger,,6,440,20260721,Adzuna,part_time,IT-Stellen,,,,False
+838,PhD Student – Aerosol and Aqueous Solution Chemistry,,6,471,20260722,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+839,Data Consultant,,6,383,20260512,Adzuna,full_time,Beraterstellen,,,,False
+840,"(Junior) Data Scientist - Datenbankentwicklung/BI, Ingenieur",,6,176,20260801,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+841,Data Consultant,,6,382,20260716,Adzuna,full_time,Unknown,,,,False
+842,Senior AI / ML Engineer für Technologieberatung im Bankingumfeld - Frankfurt am Main,,6,396,20260728,Adzuna,full_time,Unknown,,,,False
+843,Werkstudent Data Science - Jobsuche & Job-Empfehlung,,6,473,20260723,Adzuna,Not provided,Unknown,,,,False
+844,Duales Studium Informatik - Studienrichtung Künstliche Intelligenz,,6,474,20260711,Adzuna,Not provided,Teilzeitstellen,,,,False
+845,Data Scientist,,6,383,20260702,Adzuna,full_time,Beraterstellen,,,,False
+846,Data Engineer mit KI-Fokus,,6,185,20260726,Adzuna,full_time,Unknown,,,,False
+847,Data Engineer mit KI-Kenntnissen,,6,185,20260717,Adzuna,full_time,Unknown,,,,False
+848,Data Scientist,,6,382,20231005,Adzuna,full_time,Unknown,,,,False
+849,Praktikum: Data Science,,6,383,20260512,Adzuna,full_time,Beraterstellen,,,,False
+850,AI/ML Engineer – Generative AI  Legal AI,,6,475,20260727,Adzuna,part_time,Juristische Stellen,,,,False
+851,"Junior AI Engineer – Conversational AI & Sales Solutions - System Engineering / Admin, Ingenieur",,6,26,20260730,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+852,Praktikum: Data Science,,6,382,20231005,Adzuna,full_time,Unknown,,,,False
+853,Data & AI Engineer Energie & Computer Vision,,6,145,20260716,Adzuna,full_time,Unknown,,,,False
+854,"E-Commerce Data, Automation & AI Manager",,6,476,20260728,Adzuna,Not provided,Unknown,,,,False
+855,Manager / Berater Risikomanagement - für internationales Beratungsunternehmen,,6,396,20260729,Adzuna,full_time,Unknown,,,,False
+856,Softwareentwickler Medizintechnik,,6,161,20260714,Adzuna,Not provided,Unknown,,,,False
+857,Projektmanager – Künstliche Intelligenz im Gesundheitswesen,,5,477,20260801,Adzuna,Not provided,Unknown,,,,False
+858,(Junior) Machine Learning Engineer,,5,393,20260512,Adzuna,full_time,IT-Stellen,,,,False
+859,Senior Datenarchitekt Data & AI Strategie,,5,59,20260605,Adzuna,Not provided,Unknown,,,,False
+860,Senior Machine Learning Engineer – Time Series & Forecasting,,5,393,20260512,Adzuna,full_time,IT-Stellen,,,,False
+861,Postdoc Position in Autonomous Machine Learning / Computational Modeling of Cognitive Development,,5,478,20260710,Adzuna,full_time,IT-Stellen,,,,False
+862,GenAI / Agentic AI Solutions Architect (all genders),,5,479,20260802,Adzuna,Not provided,Unknown,,,,False
+863,(Senior) Data Scientist - KI und ML - FinTech,,5,77,20260723,Adzuna,full_time,IT-Stellen,,,,False
+864,Werkstudent KI / LLM-Entwicklung mit flexiblen Arbeitszeiten,,5,480,20260723,Adzuna,part_time,Juristische Stellen,,,,False
+865,Berater für Digitale Transformation & KI – Ideal für Quereinsteiger,,5,440,20260721,Adzuna,part_time,IT-Stellen,,,,False
+866,"(Junior) Data Scientist - Datenbankentwicklung/BI, Ingenieur",,5,176,20260801,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+867,Senior AI / ML Engineer für Technologieberatung im Bankingumfeld - Frankfurt am Main,,5,396,20260728,Adzuna,full_time,Unknown,,,,False
+868,AI Engineer,,5,89,20260801,Adzuna,full_time,Unknown,,,,False
+869,Duales Studium Informatik B. Sc. mit Ausrichtung Künstliche Intelligenz Frankfurt am Main 2026,,5,481,20260721,Adzuna,Not provided,Teilzeitstellen,,,,False
+870,Duales Studium Informatik - Studienrichtung Künstliche Intelligenz,,5,474,20260711,Adzuna,Not provided,Teilzeitstellen,,,,False
+871,Cloud Architect (gn) AI & Data Solutions,,5,482,20260725,Adzuna,full_time,Unknown,,,,False
+872,Junior AI Education Consultant,,5,393,20260716,Adzuna,full_time,Unknown,,,,False
+873,AI / ML Lead Consultant,,5,483,20260801,Adzuna,Not provided,Beraterstellen,,,,False
+874,Independent Research Group Leaders for Computational RNA Biology,,5,484,20260707,Adzuna,Not provided,Stellen aus Wissenschaft & Qualitätssicherung,,,,False
+875,Cloud Solution Architect,,5,485,20260801,Adzuna,full_time,IT-Stellen,63000.0,103000.0,83000.0,True
+876,Duales Studium Finance and Management B. Sc. bei Severn Consultancy,,5,486,20260603,Adzuna,Not provided,Teilzeitstellen,,,,False
+877,Werkstudent AI Education,,5,393,20260512,Adzuna,part_time,IT-Stellen,,,,False
+878,Duales Studium Data Science und Künstliche Intelligenz 2027,,5,487,20260715,Adzuna,Not provided,Teilzeitstellen,,,,False
+879,Duales Studium Finance and Management B. Sc. bei den Rackow-Schulen Frankfurt,,5,486,20260603,Adzuna,Not provided,Teilzeitstellen,,,,False
+880,Cloud Solution Architect - statworx GmbH,,5,485,20260801,Adzuna,full_time,Unknown,,,,False
+881,Duales Studium Finance and Management B. Sc. bei cleversoft,,5,486,20260721,Adzuna,Not provided,Teilzeitstellen,,,,False
+882,AI Engineer,,5,185,20260728,Adzuna,full_time,Unknown,,,,False
+883,Praktikum im Datenservicezentrum,,5,55,20260716,Adzuna,Not provided,Unknown,,,,False
+884,"Senior Data Scientist - Datenbankentwicklung/BI, Ingenieur",,5,488,20260801,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+885,Data & AI Education Consultant,,5,393,20260705,Adzuna,full_time,Unknown,,,,False
+886,Senior Consultant Data Science,,5,173,20251227,Adzuna,full_time,Unknown,,,,False
+887,Data & AI Jumpstart@IBM ab 01.09.2024,,5,390,20250224,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+888,"Consultant Quantitative Analytics - Financial Services - Consulting, Business Analysis, Ingenieur",,5,489,20260731,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+889,"Senior Data & AI Consultant (Frankfurt/Munich, Germany)",,5,490,20260202,Adzuna,full_time,Beraterstellen,,,,False
+890,Associate Data Scientist,,5,390,20260802,Adzuna,Not provided,Unknown,,,,False
+891,(Senior) Manager - AI Security,,5,173,20251216,Adzuna,full_time,IT-Stellen,,,,False
+892,(Senior) Manager KI,,5,491,20260730,Adzuna,part_time,Unknown,,,,False
+893,Intern AI SOLUTIONS - Project Management & Business Development,,5,492,20260716,Adzuna,Not provided,Unknown,,,,False
+894,Senior AI Engineer,,5,393,20260512,Adzuna,full_time,IT-Stellen,,,,False
+895,Data Scientist (f/x/m),,5,318,20260721,Adzuna,full_time,Unknown,,,,False
+896,"Associate - AI Tech Consulting (all genders) - Consulting, Ingenieur",,5,493,20260731,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+897,"Senior AI Tech Consultant (all genders) - Consulting, Ingenieur",,5,493,20260802,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+898,Experte Contact Center AI (Conversational AI & Agentic AI),,4,494,20260802,Adzuna,Not provided,Sonstige/Allgemeine Stellen,,,,False
+899,Senior Datenarchitekt Data & AI Strategie,,4,357,20260730,Adzuna,Not provided,IT-Stellen,,,,False
+900,(Senior) Data Scientist - KI und ML - FinTech,,4,77,20260723,Adzuna,full_time,IT-Stellen,,,,False
+901,KI Entwickler,,4,495,20260803,Adzuna,Not provided,Unknown,,,,False
+902,"Manager People & Culture – Agile Führung & Konfliktmanagement, Quereinsteiger willkommen!",,4,440,20260721,Adzuna,part_time,IT-Stellen,,,,False
+903,"(Junior) Data Scientist - Datenbankentwicklung/BI, Ingenieur",,4,176,20260801,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+904,Data Science und Künstliche Intelligenz (B.Sc.) 2027,,4,69,20260702,Adzuna,Not provided,Teilzeitstellen,,,,False
+905,Senior AI / ML Engineer für Technologieberatung im Bankingumfeld - Frankfurt am Main,,4,396,20260728,Adzuna,full_time,Unknown,,,,False
+906,Senior ML Engineer (m/f/d),,4,276,20260716,Adzuna,Not provided,Unknown,,,,False
+907,AI/ML Engineer – Generative AI  Legal AI,,4,475,20260727,Adzuna,part_time,Juristische Stellen,,,,False
+908,"Senior Data Scientist, Retail Media (m/f/d)",,4,276,20260716,Adzuna,Not provided,Unknown,,,,False
+909,Data Scientist* Komposit,,4,496,20260730,Adzuna,Not provided,IT-Stellen,,,,False
+910,Student/in für die Erstellung einer Reinforcement Learning Umgebung,,4,460,20260801,Adzuna,Not provided,Unknown,,,,False
+911,IT Projektleiter:in für AI-Projekte,,4,497,20260716,Adzuna,full_time,Unknown,,,,False
+912,Senior Data Scientist (m/w),,4,498,20260512,Adzuna,full_time,Unknown,,,,False
+913,Praktikum Associate Consultant Data Science,,4,376,20260427,Adzuna,Not provided,Unknown,,,,False
+914,(Senior) Manager - AI Security,,4,173,20251216,Adzuna,full_time,IT-Stellen,,,,False
+915,Abschlussarbeit - Skalierbare Zielpunktoptimierung Solarturmkraftwerke,,4,460,20260716,Adzuna,Not provided,Technikerstellen,,,,False
+916,Senior Data Scientist,,4,499,20260513,Adzuna,full_time,Unknown,,,,False
+917,"Senior AI Consultant - Projektmanagement, Anwendungsentwicklung, Consulting, Datenbankentwicklung/BI, Ingenieur",,4,59,20260801,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+918,"Associate - AI Tech Consulting (all genders) - Consulting, Ingenieur",,4,493,20260731,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+919,"Senior AI Tech Consultant (all genders) - Consulting, Ingenieur",,4,493,20260802,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+920,AVEVA PI Systemintegrator (OSIsoft PI),,4,500,20260716,Adzuna,full_time,Unknown,,,,False
+921,Teilzeit: Teamassistenz im Startup,,4,501,20260731,Adzuna,Not provided,Unknown,,,,False
+922,Full-Stack Software Engineer / Backend & Frontend - AdTech SaaS Startup remote,,4,502,20260716,Adzuna,full_time,Unknown,,,,False
+923,SAP Consultant Planning & Process Systems - J3516,,4,503,20260716,Adzuna,full_time,Unknown,,,,False
+924,"Platform Engineer Analytics & KI-Platform - Business Analysis, Ingenieur",,4,504,20260731,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+925,Platform Engineer Analytics & KI-Platform,,4,322,20260316,Adzuna,Not provided,IT-Stellen,,,,False
+926,(Senior) Data Scientist Retail Media,,4,280,20251001,Adzuna,Not provided,Unknown,,,,False
+927,Data Scientist - Gen AI,,4,505,20260728,Adzuna,full_time,Unknown,,,,False
+928,"Administrator SharePoint Farm | On-Prem, MS SQL, IIS, LoadBalancer | 100% Home Office (mwd)",,4,375,20260728,Adzuna,full_time,Unknown,,,,False
+929,Studentische Aushilfe Data Analytics Property & Casualty,,4,506,20260721,Adzuna,Not provided,Unknown,,,,False
+930,SAP Consultant Supply Chain Systems - J3516,,4,503,20260716,Adzuna,full_time,Unknown,,,,False
+931,Spezialist KI,,4,507,20260725,Adzuna,Not provided,Unknown,,,,False
+932,"(Junior) Microsoft Fabric & AI Analytics Consultant - System Engineering / Admin, Consulting, Business Analysis, Ingenieur",,4,176,20260801,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+933,"Werkstudent | RPA & AI (all genders) - System Engineering / Admin, Ingenieur",,4,508,20260802,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+934,"Werkstudent | Software-Entwicklung (all genders) - Anwendungsentwicklung, Ingenieur",,4,508,20260731,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+935,"Social Media & AI Content Specialist - Umzug nach Athen, Griechenland",,4,509,20260622,Adzuna,full_time,Kundendienststellen,,,,False
+936,Founding Software Engineer,,4,510,20260521,Adzuna,full_time,Unknown,,,,False
+937,Solution Architect – SAP Business Data Cloud,,4,511,20260510,Adzuna,full_time,Unknown,,,,False
+938,(Senior) AI Engineer & Technical Project Lead (Köln) (w/d/m),,4,497,20260721,Adzuna,Not provided,IT-Stellen,,,,False
+939,Duales Studium Informatik - Studienrichtung Künstliche Intelligenz,,4,474,20260711,Adzuna,Not provided,Teilzeitstellen,,,,False
+940,Software Engineer Enterprise Search (all genders),,2,258,20260717,Adzuna,Not provided,IT-Stellen,,,,False
+941,Senior Software Engineer,,2,512,20260716,Adzuna,Not provided,IT-Stellen,,,,False
+942,Senior Software Engineer - Distribution,,2,512,20260718,Adzuna,Not provided,Unknown,,,,False
+943,Ingenieur Informationstechnik als DSP Software Engineer - Entwicklung & Implementierung,,2,513,20260615,Adzuna,full_time,IT-Stellen,,,,False
+944,Software Test Engineer HiL,,2,514,20260801,Adzuna,full_time,Unknown,,,,False
+945,Software Engineer (*),,2,413,20260716,Adzuna,full_time,Unknown,,,,False
+946,.NET Software Engineer,,2,515,20260729,Adzuna,full_time,IT-Stellen,100000.0,120000.0,110000.0,True
+947,Software Engineer - DevOps,,2,326,20260529,Adzuna,full_time,Sonstige/Allgemeine Stellen,,,,False
+948,Senior Software Engineer,,2,332,20260713,Adzuna,full_time,Technikerstellen,,,,False
+949,Senior Software Engineer,,2,344,20260710,Adzuna,Not provided,IT-Stellen,,,,False
+950,"Software Engineer, Infrastructure",,2,516,20260205,Adzuna,full_time,Unknown,,,,False
+951,"Software Engineer, Infrastructure",,2,517,20260512,Adzuna,full_time,IT-Stellen,,,,False
+952,Senior Software Engineer,,2,518,20260512,Adzuna,full_time,IT-Stellen,,,,False
+953,Java Software Engineer,,2,519,20260604,Adzuna,Not provided,Unknown,,,,False
+954,Software Engineer – Fullstack,,2,520,20260720,Adzuna,Not provided,IT-Stellen,,,,False
+955,Staff Software Engineer,,2,521,20260530,Adzuna,full_time,IT-Stellen,,,,False
+956,Fullstack Software Engineer,,2,522,20260723,Adzuna,full_time,IT-Stellen,80000.0,120000.0,100000.0,True
+957,Principal Software Engineer,,2,123,20260113,Adzuna,Not provided,Unknown,,,,False
+958,Principal Software Engineer,,2,523,20260109,Adzuna,full_time,Unknown,,,,False
+959,Senior Software Engineer,,2,524,20260507,Adzuna,full_time,IT-Stellen,58000.0,120000.0,89000.0,True
+960,Senior Software Engineer,,2,418,20260712,Adzuna,full_time,IT-Stellen,,,,False
+961,Senior Software Engineer,,2,525,20260716,Adzuna,full_time,Unknown,,,,False
+962,Senior Software Engineer,,2,327,20260728,Adzuna,full_time,Unknown,,,,False
+963,Senior Software Engineer - Remote,,2,526,20260725,Adzuna,Not provided,Unknown,,,,False
+964,Software Engineer - Backend Specialist,,2,285,20260624,Adzuna,Not provided,Unknown,,,,False
+965,Desktop Software Engineer C++,,2,527,20260625,Adzuna,full_time,Technikerstellen,,,,False
+966,"Senior Software Engineer, API",,2,528,20260717,Adzuna,full_time,Sonstige/Allgemeine Stellen,,,,False
+967,SAP ABAP OO Entwickler (S/4HANA) – Banking & Risikomanagement) (m|w|d),,8,529,20260720,Adzuna,Not provided,IT-Stellen,,,,False
+968,Software Engineer,,8,530,20260512,Adzuna,full_time,IT-Stellen,,,,False
+969,Software Engineer,,8,531,20250904,Adzuna,full_time,Unknown,,,,False
+970,Software Engineer,,8,532,20260716,Adzuna,full_time,Unknown,,,,False
+971,.NET Software Engineer,,8,515,20260729,Adzuna,full_time,IT-Stellen,95000.0,115000.0,105000.0,True
+972,Software Engineer - Remote,,8,526,20260708,Adzuna,Not provided,Unknown,,,,False
+973,UAV Software Engineer,,8,533,20260727,Adzuna,full_time,Sonstige/Allgemeine Stellen,,,,False
+974,Staff Software Engineer,,8,213,20260421,Adzuna,full_time,Technikerstellen,,,,False
+975,Senior Software Architect - Data Analytics & AI,,8,534,20260802,Adzuna,Not provided,Unknown,,,,False
+976,C# Software Engineer,,8,294,20260716,Adzuna,full_time,Unknown,,,,False
+977,Senior Software Engineer,,8,535,20260619,Adzuna,Not provided,Unknown,,,,False
+978,Senior Software Engineer,,8,536,20260618,Adzuna,full_time,Unknown,,,,False
+979,Java Software Engineer,,8,537,20260611,Adzuna,Not provided,Unknown,,,,False
+980,Principal Software Engineer,,8,363,20260328,Adzuna,full_time,Unknown,,,,False
+981,Principal Software Engineer,,8,362,20260512,Adzuna,full_time,IT-Stellen,,,,False
+982,"Software Engineer, Agent",,8,538,20251219,Adzuna,full_time,IT-Stellen,,,,False
+983,Senior Software Engineer,,8,539,20260717,Adzuna,full_time,Unknown,,,,False
+984,Junior Software Engineer,,8,531,20260716,Adzuna,full_time,Unknown,,,,False
+985,(Senior) Software Engineer,,8,540,20260720,Adzuna,full_time,IT-Stellen,,,,False
+986,AI Software Engineer,,8,541,20260512,Adzuna,full_time,IT-Stellen,,,,False
+987,Senior Fullstack Developer - Data Analytics & AI,,8,534,20260802,Adzuna,Not provided,Unknown,,,,False
+988,Senior Software Engineer - Remote,,8,526,20260708,Adzuna,Not provided,Unknown,,,,False
+989,Senior Software Engineer — Software Platform & Middleware,,8,542,20260524,Adzuna,full_time,IT-Stellen,,,,False
+990,Software Engineer - Virtual Machine,,8,543,20260720,Adzuna,Not provided,Unknown,,,,False
+991,Software Engineer (all genders),,8,544,20260716,Adzuna,Not provided,Unknown,,,,False
+992,(Senior) Embedded Software Engineer,,8,545,20260730,Adzuna,full_time,Unknown,,,,False
+993,Software Engineer (Full-Stack),,8,546,20260717,Adzuna,Not provided,IT-Stellen,55000.0,85000.0,70000.0,True
+994,Mission Planning Software Engineer,,8,547,20260731,Adzuna,full_time,Technikerstellen,,,,False
+995,Software Engineer (all genders),,8,548,20260519,Adzuna,full_time,Unknown,60000.0,80000.0,70000.0,True
+996,Software Engineer (C++/ .NET),,8,549,20260419,Adzuna,full_time,IT-Stellen,,,,False
+997,Software Engineer (all genders),,8,550,20260716,Adzuna,full_time,Unknown,,,,False
+998,Software Engineer — Software Platform & Middleware (Early Career),,8,542,20260524,Adzuna,full_time,IT-Stellen,,,,False
+999,SAP/LISA Software Engineer mit Leadership-Perspektive,,6,231,20260617,Adzuna,Not provided,Unknown,,,,False
+1000,Software Engineer SAP / LISA - Schwerpunkt Dokumentenmanagement,,6,231,20260601,Adzuna,Not provided,Unknown,,,,False
+1001,Junior Software Engineer SAP/ LISA - Schwerpunkt Fakturierung und Abrechnung -,,6,231,20260715,Adzuna,Not provided,IT-Stellen,,,,False
+1002,.NET Software Engineer,,6,515,20260729,Adzuna,full_time,IT-Stellen,75000.0,95000.0,85000.0,True
+1003,Stellenangebot (Senior) Software Engineer,,6,253,20260710,Adzuna,full_time,IT-Stellen,,,,False
+1004,Hackers wanted – Software Engineers,,6,551,20241108,Adzuna,full_time,IT-Stellen,,,,False
+1005,Stellenangebot Lead (gn) Software Engineer,,6,253,20260724,Adzuna,full_time,IT-Stellen,,,,False
+1006,Stellenangebot (Senior) Software Engineer (gn),,6,253,20260711,Adzuna,full_time,IT-Stellen,,,,False
+1007,Hackers wanted – Senior Software Engineer,,6,551,20240730,Adzuna,full_time,IT-Stellen,,,,False
+1008,Java Software Engineer - Payment Integration,,6,552,20260717,Adzuna,Not provided,Unknown,,,,False
+1009,Software Engineer – 3D Printer behaviour,,6,553,20260619,Adzuna,full_time,IT-Stellen,,,,False
+1010,Software Engineer,,6,554,20260512,Adzuna,full_time,IT-Stellen,,,,False
+1011,"Software Engineer, Platform - Hamburg, Germany",,6,555,20260421,Adzuna,Not provided,IT-Stellen,,,,False
+1012,Software Engineer SAP (all genders),,6,556,20260724,Adzuna,full_time,Unknown,,,,False
+1013,"Software Engineer, CI/CD & DevOps",,6,557,20260706,Adzuna,Not provided,Unknown,,,,False
+1014,Software Engineer (Compilers),,6,558,20260128,Adzuna,full_time,Technikerstellen,,,,False
+1015,Senior Fullstack Software Engineer (All genders),,6,559,20260620,Adzuna,full_time,Unknown,,,,False
+1016,Senior software engineer (m/f/d),,6,560,20260709,Adzuna,full_time,Unknown,,,,False
+1017,Golang Software Engineer (m/f/d),,6,561,20260716,Adzuna,full_time,Unknown,,,,False
+1018,Senior Software Engineer,,6,562,20260716,Adzuna,full_time,Unknown,,,,False
+1019,Principal Software Engineer (m/f/d),,6,240,20260731,Adzuna,full_time,IT-Stellen,,,,False
+1020,Software Engineer / Developer Golang (all genders),,6,232,20260627,Adzuna,full_time,IT-Stellen,,,,False
+1021,(Senior) Software Engineer (all genders welcome),,6,563,20260717,Adzuna,Not provided,Unknown,,,,False
+1022,(Senior) AI Software Engineer (all genders),,6,564,20260730,Adzuna,full_time,IT-Stellen,,,,False
+1023,Senior Software Engineer KI (all genders),,6,146,20260720,Adzuna,full_time,Unknown,,,,False
+1024,Software Engineer SAP & oscare (all genders),,6,556,20260716,Adzuna,full_time,Unknown,,,,False
+1025,Senior Software Engineer SAP (all genders),,6,556,20260722,Adzuna,full_time,Unknown,,,,False
+1026,Cloud Software Engineer (all genders) in Hamburg,,6,565,20260723,Adzuna,full_time,Unknown,,,,False
+1027,Cloud Software Engineer (all genders) in Hamburg,,6,566,20260724,Adzuna,Not provided,IT-Stellen,,,,False
+1028,Software Engineer SAP ABAP (all genders),,6,353,20260716,Adzuna,Not provided,Unknown,,,,False
+1029,Junior AI Software Engineer (all genders),,6,564,20260730,Adzuna,full_time,IT-Stellen,,,,False
+1030,Senior Backend Software Engineer,,6,313,20260716,Adzuna,full_time,Unknown,,,,False
+1031,Software Engineer SAP / LISA,,6,231,20260731,Adzuna,full_time,IT-Stellen,33000.0,35500.0,34250.0,True
+1032,Senior Frontend Software Engineer,,6,567,20260716,Adzuna,full_time,IT-Stellen,,,,False
+1033,"Senior Software Engineer, Core Experiences - Hamburg, Germany",,6,555,20260427,Adzuna,Not provided,IT-Stellen,,,,False
+1034,"Software Engineer, Data Infrastructure & Acquisition - Hamburg, Germany",,6,555,20260421,Adzuna,Not provided,IT-Stellen,,,,False
+1035,"Software Engineer - Anwendungsentwicklung, Ingenieur",,6,135,20260802,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+1036,Senior Cloud Software Engineer - Adobe Cloud Platform,,6,568,20260721,Adzuna,full_time,IT-Stellen,,,,False
+1037,Senior Software Engineer (gn) - GenAI // 100% remote,,6,142,20260625,Adzuna,full_time,Unknown,75000.0,85000.0,80000.0,True
+1038,Senior Software Engineer - Mobile (m/f/d),,6,245,20260628,Adzuna,full_time,Unknown,,,,False
+1039,Senior Software Engineer (gn) - GenAI // 100% remote,,6,569,20260625,Adzuna,full_time,IT-Stellen,,,,False
+1040,.NET Software Engineer,,5,515,20260729,Adzuna,full_time,IT-Stellen,55000.0,75000.0,65000.0,True
+1041,Principal Software Engineer,,5,570,20260716,Adzuna,full_time,Unknown,,,,False
+1042,Software Engineer C++,,5,327,20260801,Adzuna,full_time,Unknown,,,,False
+1043,Senior Software Engineer (Backend),,5,571,20260327,Adzuna,full_time,IT-Stellen,,,,False
+1044,Software Engineer,,5,572,20260730,Adzuna,full_time,Unknown,,,,False
+1045,Software Engineer (m/f/d),,5,573,20240423,Adzuna,full_time,Unknown,,,,False
+1046,Software Engineer SAP (all genders),,5,556,20260724,Adzuna,full_time,Unknown,,,,False
+1047,Senior Software Engineer,,5,574,20260716,Adzuna,full_time,Unknown,,,,False
+1048,Software Engineer - Angular (m/f/x),,5,575,20260710,Adzuna,full_time,Unknown,,,,False
+1049,Senior Software Engineer KI (all genders),,5,146,20260720,Adzuna,full_time,Unknown,,,,False
+1050,Software Engineer SAP & oscare (all genders),,5,556,20260716,Adzuna,full_time,Unknown,,,,False
+1051,Software Engineer - Java,,5,575,20260716,Adzuna,full_time,Unknown,,,,False
+1052,Senior Software Engineer,,5,58,20260721,Adzuna,full_time,Unknown,,,,False
+1053,Senior Software Engineer SAP (all genders),,5,556,20260722,Adzuna,full_time,Unknown,,,,False
+1054,SENIOR SOFTWARE ENGINEER,,5,576,20260512,Adzuna,full_time,IT-Stellen,,,,False
+1055,Senior Software Engineer Java,,5,577,20260716,Adzuna,full_time,Unknown,,,,False
+1056,"Senior Software Engineer, Core Experiences - Frankfurt, Germany",,5,555,20260517,Adzuna,Not provided,IT-Stellen,,,,False
+1057,"Software Engineer - Anwendungsentwicklung, Ingenieur",,5,135,20260802,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+1058,Senior Software Engineer - Angular (m/f/x),,5,575,20260620,Adzuna,full_time,Unknown,,,,False
+1059,"Software Engineer, iOS Core Product - Frankfurt, Germany",,5,555,20260427,Adzuna,Not provided,IT-Stellen,,,,False
+1060,Senior Software Engineer SAP Banking (all genders),,5,556,20260723,Adzuna,full_time,Unknown,,,,False
+1061,Senior Software Engineer SAP Healthcare (all genders),,5,556,20260726,Adzuna,full_time,Unknown,,,,False
+1062,Software Engineer Business Applications,,5,578,20260728,Adzuna,full_time,IT-Stellen,,,,False
+1063,Senior Software Engineer - Ruby on Rails & React Native,,5,579,20260724,Adzuna,full_time,IT-Stellen,60000.0,85000.0,72500.0,True
+1064,IT Trainee Software Engineer/Developer,,5,71,20220621,Adzuna,Not provided,Unknown,,,,False
+1065,Software Engineer & Consultant - 58agents GmbH,,5,580,20260801,Adzuna,full_time,Beraterstellen,,,,False
+1066,Senior Cloud Software Engineer SAP BTP (all genders),,5,556,20260722,Adzuna,full_time,Unknown,,,,False
+1067,"Senior Software Engineer, Windows/Desktop Applications - Frankfurt, Germany",,5,555,20260513,Adzuna,Not provided,IT-Stellen,,,,False
+1068,Senior Software Engineer SAP FS-CD (all genders),,5,556,20260725,Adzuna,full_time,Unknown,,,,False
+1069,"Senior Software Engineer Defense - Anwendungsentwicklung, Ingenieur",,5,135,20260802,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+1070,Senior AI Software Engineer (all genders) in Frankfurt - PRODYNA SE,,5,372,20260801,Adzuna,full_time,Unknown,,,,False
+1071,Software Engineer Conversational AI 85.000€ fix,,5,234,20260714,Adzuna,full_time,IT-Stellen,85000.0,85000.0,85000.0,True
+1072,"Cloud Software Engineer - System Engineering / Admin, Anwendungsentwicklung, Ingenieur",,5,489,20260728,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+1073,Senior Software Engineer (Backend-Java) – Business Banking Cards,,5,395,20260612,Adzuna,full_time,Stellen aus Buchhaltung & Finanzwesen,,,,False
+1074,"AI Engineer / Software Engineer (all genders) - System Engineering / Admin, Anwendungsentwicklung, Ingenieur",,5,146,20260802,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+1075,Senior Full-Stack Software Engineer (Java/ Spring Boot/ TypeScript/ Angular),,5,581,20260730,Adzuna,full_time,IT-Stellen,70000.0,100000.0,85000.0,True
+1076,Software Quality Engineer,,5,161,20260512,Adzuna,Not provided,Unknown,,,,False
+1077,Software Development Engineer Java,,5,582,20260716,Adzuna,full_time,Unknown,,,,False
+1078,"Data Center Engineering Operations Technician, DCEO",,5,386,20260803,Adzuna,Not provided,IT-Stellen,,,,False
+1079,"Data Center Engineering Operations Technician (m/f/d), DC Engineering and Facility Operations, DCEO",,5,386,20260729,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+1080,"Customer Engineer, Platform, Software and Media, DACH (German)",,5,227,20260706,Adzuna,Not provided,Unknown,,,,False
+1081,DevOps Engineer / CI/CD,,5,396,20260730,Adzuna,full_time,Unknown,,,,False
+1082,Engineering Manager Software Engineering - Foundation Layer,,4,322,20260716,Adzuna,Not provided,Unknown,,,,False
+1083,Software-Engineer mit Schwerpunkt Testautomatisierung im Framework BTL / SETAK,,4,583,20260719,Adzuna,Not provided,IT-Stellen,,,,False
+1084,.NET Software Engineer,,4,515,20260729,Adzuna,full_time,IT-Stellen,75000.0,95000.0,85000.0,True
+1085,Senior Software Engineer,,4,584,20260719,Adzuna,Not provided,IT-Stellen,,,,False
+1086,Werkstudent Java Fullstack Developer,,4,322,20260802,Adzuna,Not provided,IT-Stellen,,,,False
+1087,"Senior Software Engineer, Data",,4,585,20260731,Adzuna,full_time,Technikerstellen,,,,False
+1088,Senior Software Engineer (all),,4,586,20260605,Adzuna,full_time,Unknown,,,,False
+1089,Senior Software Engineer - mobile,,4,587,20260716,Adzuna,full_time,Unknown,,,,False
+1090,Software Engineer SAP (all genders),,4,556,20260724,Adzuna,full_time,Unknown,,,,False
+1091,Software Engineer EDI (all genders),,4,258,20260729,Adzuna,full_time,Unknown,,,,False
+1092,Fullstack Software Engineer,,4,313,20260716,Adzuna,full_time,Unknown,,,,False
+1093,AI Software Engineer,,4,588,20260604,Adzuna,full_time,IT-Stellen,,,,False
+1094,(Senior) Software Engineer,,4,497,20260716,Adzuna,full_time,Unknown,,,,False
+1095,Software Engineer Elixir,,4,280,20251104,Adzuna,Not provided,Unknown,,,,False
+1096,Senior Software Engineer - mobile (All Genders),,4,589,20260731,Adzuna,full_time,Unknown,,,,False
+1097,Software Engineer SAP & oscare (all genders),,4,556,20260716,Adzuna,full_time,Unknown,,,,False
+1098,Senior Software Engineer SAP (all genders),,4,556,20260722,Adzuna,full_time,Unknown,,,,False
+1099,Software Engineer (English speaking) (M/F/D),,4,590,20260314,Adzuna,full_time,Unknown,,,,False
+1100,"Software Engineer, Data Infrastructure & Acquisition - Cologne, Germany",,4,555,20260427,Adzuna,Not provided,IT-Stellen,,,,False
+1101,"Software Engineer - Anwendungsentwicklung, Ingenieur",,4,135,20260802,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+1102,(Senior) Software Engineer Data Integration (all genders),,4,591,20260605,Adzuna,part_time,Unknown,,,,False
+1103,(Senior) Software Engineer Elixir,,4,280,20251104,Adzuna,Not provided,Unknown,,,,False
+1104,Senior Software Engineer SAP Banking (all genders),,4,556,20260723,Adzuna,full_time,Unknown,,,,False
+1105,⭐ Software Engineer - T-Shaped (f/m/x),,4,592,20260716,Adzuna,full_time,Unknown,,,,False
+1106,Senior Software Engineer SAP Healthcare (all genders),,4,556,20260726,Adzuna,full_time,Unknown,,,,False
+1107,Lead Software Engineer | Köln,,4,593,20260727,Adzuna,full_time,Unknown,,,,False
+1108,Software Engineer Java Backend,,4,322,20260630,Adzuna,Not provided,IT-Stellen,,,,False
+1109,(Junior) Software Engineer – Mobile App,,4,280,20260714,Adzuna,Not provided,Unknown,,,,False
+1110,Software Engineer Ruby on Rails,,4,280,20251114,Adzuna,Not provided,Unknown,,,,False
+1111,"Software Engineer - Automation & Operations (m/w/d, FT)",,4,594,20260716,Adzuna,full_time,Unknown,,,,False
+1112,Senior Cloud Software Engineer SAP BTP (all genders),,4,556,20260722,Adzuna,full_time,Unknown,,,,False
+1113,Senior Software Engineer SAP FS-CD (all genders),,4,556,20260725,Adzuna,full_time,Unknown,,,,False
+1114,Automation Software Engineer SPS - J35659,,4,503,20260728,Adzuna,full_time,Unknown,,,,False
+1115,Software Engineer AI Solutions (.NET/Web),,4,595,20260716,Adzuna,full_time,Unknown,,,,False
+1116,"Senior Software Engineer Defense - Anwendungsentwicklung, Ingenieur",,4,135,20260802,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+1117,"Founding Software Engineer, KI-Startup Köln, m/w/d",,4,596,20260716,Adzuna,full_time,Unknown,,,,False
+1118,SPS Software Engineer Automation Projects - J35659,,4,503,20260718,Adzuna,full_time,Unknown,,,,False
+1119,"Software Engineer - Input Management - Anwendungsentwicklung, Ingenieur",,4,141,20260728,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+1120,"Software Engineer Java Backend - Anwendungsentwicklung, Ingenieur",,4,504,20260728,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+1121,Senior Software Engineer – Digitale Identität & Angewandte Kryptographie,,4,597,20260624,Adzuna,full_time,IT-Stellen,,,,False
+1122,Working Student / Intern: Software Engineer (Frontend & Backend) (f/m/x),,4,598,20260716,Adzuna,Not provided,Unknown,,,,False
+1123,Full-Stack Software Engineer UI/UX/Backend,,4,599,20260731,Adzuna,Not provided,Unknown,48000.0,48000.0,48000.0,True
+1124,Application Security Engineer,,4,322,20260801,Adzuna,Not provided,IT-Stellen,,,,False
+1125,"Cloud Software Engineer - System Engineering / Admin, Anwendungsentwicklung, Ingenieur",,4,489,20260728,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+1126,"AI Engineer / Software Engineer (all genders) - System Engineering / Admin, Anwendungsentwicklung, Ingenieur",,4,146,20260802,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
+1127,"Senior Cloud Software Engineer - System Engineering / Admin, Anwendungsentwicklung, Ingenieur",,4,600,20260801,Adzuna,Not provided,Stellen für Hochschulabsolventen,,,,False
